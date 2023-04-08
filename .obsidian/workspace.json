@@ -165,6 +165,17 @@
   },
   "active": "e87406fdf50cdb96",
   "lastOpenFiles": [
+    "pages/tutorial.md",
+    "_tutorial/Thiết lập Digital Garden với Jekyll và Github Page.md",
+    "_tutorial",
+    "_read/The Minto Pyramid Principle - Barbara Minto.md",
+    "_story",
+    "pages/story.md",
+    "pages/read.md",
+    "pages/journey.md",
+    "_read",
+    "_journey",
+    "_includes/_journey",
     "src/template/Bullet Journal.md",
     "src/template/New Note.md",
     "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
@@ -189,10 +200,6 @@
     "README.md",
     "_posts/2020-03-01-features.md",
     "_posts/2020-03-01-how-to.md",
-    "pages/posts.md",
-    "pages/notes.md",
-    "pages/lists.md",
-    "pages/index.md",
-    "pages/404.md"
+    "pages/posts.md"
   ]
 }
