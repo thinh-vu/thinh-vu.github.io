@@ -5,7 +5,6 @@ date : 08-04-2023
 ---
 # Book Info 📚
 🗓  2023-04-08 19:24
-Title: 
 Author: [[Barbara Minto]]
 Format: [[PDF]]
 Source: [[Library Genesis]]

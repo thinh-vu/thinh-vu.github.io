@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f02abb3cb083a37b",
+        "id": "5f73769c20f2b172",
         "type": "tabs",
         "children": [
           {
-            "id": "bf6c4bd37e0f689c",
+            "id": "6e9d3f963839c95f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Credits.md",
+                "file": "_notes/Public/Welcome to the garden.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Credits.md",
+                "file": "_notes/Public/Welcome to the garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Credits.md",
+                "file": "_notes/Public/Welcome to the garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +126,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Credits.md"
+                "file": "_notes/Public/Welcome to the garden.md"
               }
             }
+          },
+          {
+            "id": "dbf03fcd3d3ea015",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcd8aa79461184bc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -140,20 +158,35 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf6c4bd37e0f689c",
+  "active": "6e9d3f963839c95f",
   "lastOpenFiles": [
+    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
+    "Pasted image 20230408220627.png",
+    "Pasted image 20230408220523.png",
+    "Pasted image 20230408220418.png",
+    "src/template/New Note.md",
+    "src/template/Bullet Journal.md",
+    "src/template/Book Highlights.md",
+    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+    "_notes/Public/Cài đặt.md",
+    "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Hidden Note.md",
     "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
-    "README.md",
+    "_notes/Public/Cách cài đặt.md",
     "_notes/Public/Credits.md",
+    "src/template/Daily Journal.md",
+    "src/template/Weekly Journal.md",
+    "src/template/Monthly Journal.md",
+    "src/template/Life Review.md",
+    "src/template/People profile.md",
+    "src/template",
+    "src",
+    "README.md",
     "_posts/2020-03-01-features.md",
     "_posts/2020-03-01-how-to.md",
     "pages/posts.md",
