@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Welcome to the garden.md",
+                "file": "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Welcome to the garden.md",
+                "file": "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Welcome to the garden.md",
+                "file": "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Welcome to the garden.md"
+                "file": "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md"
               }
             }
           },
@@ -164,11 +164,12 @@
   },
   "active": "570c051bbb79da39",
   "lastOpenFiles": [
+    "_notes/Public/Welcome to the garden.md",
     "_journey/Public",
     "_story/Public",
-    "_tutorial/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
+    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
     "_tutorial/Public",
-    "_read/Public/The Minto Pyramid Principle - Barbara Minto.md",
+    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "_read/Public",
     "_notes/Public/Markdown Rendered.md",
     "_notes/Public/Hidden Note.md",
@@ -189,7 +190,6 @@
     "src/template/Bullet Journal.md",
     "src/template/New Note.md",
     "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
-    "_notes/Public/Welcome to the garden.md",
     "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "src/Pasted image 20230408220627.png",
     "src/Pasted image 20230408220523.png",
@@ -202,7 +202,6 @@
     "src/template/Monthly Journal.md",
     "src/template/Life Review.md",
     "src/template/People profile.md",
-    "src/template",
-    "src"
+    "src/template"
   ]
 }

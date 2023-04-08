@@ -26,19 +26,18 @@ Mình đã nghe nói tới việc thiết lập một static site với Github P
 ### Cấu hình chung
 Các thiết lập chung có thể được tuỳ chỉnh trong file `_config.yml`, trong đó có 1 số mục cần quan tâm:
 - Mô tả trang & copyright
-  ![[../src/Pasted image 20230408220627.png]]
+![](../../src/Pasted%20image%2020230408220627.png)
 
-![[../src/Pasted image 20230408220523.png]]
+![](../../src/Pasted%20image%2020230408220523.png)
 ### Thanh menu
 Tìm và chỉnh sửa file `Nav.html`, có thể xoá các menu không phù hợp hoặc bổ sung theo ý
-![[../src/Pasted image 20230408220418.png]]
+![](../../src/Pasted%20image%2020230408220418.png)
 # Cài đặt tracking
 - Sử dụng Google Tag Manager là công cụ duy nhất để quản lý các công cụ theo dõi hiệu năng website. Mặc định theme Jekyll-Garden không có thẻ `<head></head>` và `<body></body>` nên cần thêm vào để có thể đặt mã theo dõi của GTM theo yêu cầu.
-  ![](../src/Pasted%20image%2020230408230543.png)
+  ![](../../src/Pasted%20image%2020230408230543.png)
 - Cài đặt Google Analytics vào GTM để theo dõi các thông tin cơ bản về lưu lượng truy cập
 # Lưu ý khi sử dụng
 Định dạng markdown được hỗ trợ bởi Jekyll sẽ có một số điểm khác biệt so với tuỳ chọn mặc định của Obsidian. Vì vậy, điều quan trọng là nắm được những khác biệt này và thiết lập cấu hình Obsidian để phù hợp với định dạng được hỗ trợ. Cần lưu ý một số điểm sau:
 - Sử dụng `Relative path to file` để đảm bảo hình và file đính kèm có thể hiển thị đúng
 - Tắt chế độ `Use [[Wikilinks]]` mặc định để đảm bảo file đính kèm sẽ được sử dụng Relative file path
 - Table của Jekyll cần sử dụng `|` ở cả đầu và cuối
-
