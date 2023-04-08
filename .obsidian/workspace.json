@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9cbb6cf81ff3b7c",
+        "id": "f02abb3cb083a37b",
         "type": "tabs",
         "children": [
           {
-            "id": "385a14c84df6f0df",
+            "id": "bf6c4bd37e0f689c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_notes/Public/Credits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_notes/Public/Credits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_notes/Public/Credits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_notes/Public/Credits.md"
               }
             }
           }
@@ -146,14 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "385a14c84df6f0df",
+  "active": "bf6c4bd37e0f689c",
   "lastOpenFiles": [
-    "_notes/Public/Welcome to the garden.md",
-    "README.md",
-    "README.md",
-    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
-    "_notes/Public/Markdown Rendered.md",
     "_notes/Public/Hidden Note.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+    "README.md",
     "_notes/Public/Credits.md",
     "_posts/2020-03-01-features.md",
     "_posts/2020-03-01-how-to.md",
