@@ -177,6 +177,8 @@
   },
   "active": "e87406fdf50cdb96",
   "lastOpenFiles": [
+    "_layouts/Index.html",
+    "_layouts/Post copy.html",
     "_index/How to.md",
     "_index/Index.md",
     "src/template/Post.md",
@@ -205,7 +207,6 @@
     "pages/journey.md",
     "_read",
     "_journey",
-    "_includes/_journey",
     "src/template/Bullet Journal.md",
     "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "src/Pasted image 20230408220627.png",
@@ -215,7 +216,6 @@
     "_notes/Public/Cách cài đặt.md",
     "_notes/Public/Credits.md",
     "src/template/Daily Journal.md",
-    "src/template/Weekly Journal.md",
-    "src/template/Monthly Journal.md"
+    "src/template/Weekly Journal.md"
   ]
 }
