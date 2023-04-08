@@ -10,7 +10,8 @@ date : {{date:DD-MM-YYYY}}
 - ISBN:
 - Published:
 - Tag: #book
-___
+
+
 # Quote 💡
 
 # Emotion 🎉
