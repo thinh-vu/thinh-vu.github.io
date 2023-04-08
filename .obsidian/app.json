@@ -3,5 +3,9 @@
   "newFileFolderPath": "_notes/Public",
   "spellcheck": false,
   "showLineNumber": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "src"
 }

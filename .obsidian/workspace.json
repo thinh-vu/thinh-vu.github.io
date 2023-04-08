@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/template/Book Highlights.md",
+                "file": "_notes/Public/Welcome to the garden.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/template/Book Highlights.md",
+                "file": "_notes/Public/Welcome to the garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/template/Book Highlights.md",
+                "file": "_notes/Public/Welcome to the garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/template/Book Highlights.md"
+                "file": "_notes/Public/Welcome to the garden.md"
               }
             }
           },
@@ -147,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,12 +162,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e87406fdf50cdb96",
+  "active": "570c051bbb79da39",
   "lastOpenFiles": [
-    "pages/tutorial.md",
-    "_tutorial/Thiết lập Digital Garden với Jekyll và Github Page.md",
-    "_tutorial",
+    "_journey/Public",
+    "_story/Public",
+    "_tutorial/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
+    "_tutorial/Public",
+    "_read/Public/The Minto Pyramid Principle - Barbara Minto.md",
+    "_read/Public",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Hidden Note.md",
+    "_posts/2020-03-01-features.md",
     "_read/The Minto Pyramid Principle - Barbara Minto.md",
+    "_tutorial/Thiết lập Digital Garden với Jekyll và Github Page.md",
+    "src/Pasted image 20230408230543.png",
+    "src/template/Book Highlights.md",
+    "pages/tutorial.md",
+    "_tutorial",
     "_story",
     "pages/story.md",
     "pages/read.md",
@@ -181,13 +191,10 @@
     "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
     "_notes/Public/Welcome to the garden.md",
     "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
-    "_notes/Public/Markdown Rendered.md",
-    "src/template/Book Highlights.md",
-    "Pasted image 20230408220627.png",
-    "Pasted image 20230408220523.png",
-    "Pasted image 20230408220418.png",
+    "src/Pasted image 20230408220627.png",
+    "src/Pasted image 20230408220523.png",
+    "src/Pasted image 20230408220418.png",
     "_notes/Public/Cài đặt.md",
-    "_notes/Public/Hidden Note.md",
     "_notes/Public/Cách cài đặt.md",
     "_notes/Public/Credits.md",
     "src/template/Daily Journal.md",
@@ -196,10 +203,6 @@
     "src/template/Life Review.md",
     "src/template/People profile.md",
     "src/template",
-    "src",
-    "README.md",
-    "_posts/2020-03-01-features.md",
-    "_posts/2020-03-01-how-to.md",
-    "pages/posts.md"
+    "src"
   ]
 }

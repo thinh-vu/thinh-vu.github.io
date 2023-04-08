@@ -2,7 +2,7 @@
 layout: Post
 permalink: /tutorial
 feedformat: card
-title: Digital Garden
+title: Tutorial
 ---
 
 The feed page shows all notes from `tutorial` folder.

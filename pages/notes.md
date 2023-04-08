@@ -2,7 +2,7 @@
 layout: Post
 permalink: /notes
 feedformat: card
-title: Digital Garden
+title: Notes
 ---
 
 The feed page shows all notes from `notes` folder.
