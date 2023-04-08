@@ -11,11 +11,28 @@
             "id": "ff1e114772d36a39",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/Hidden Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2950d0226a250671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md"
+              }
             }
           }
         ]
@@ -138,18 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff1e114772d36a39",
+  "active": "2950d0226a250671",
   "lastOpenFiles": [
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_posts/2020-03-01-features.md",
+    "_posts/2020-03-01-how-to.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Credits.md",
     "pages/posts.md",
     "pages/notes.md",
     "pages/lists.md",
     "pages/index.md",
-    "pages/404.md",
-    "_posts/2020-03-01-how-to.md",
-    "_posts/2020-03-01-features.md",
-    "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Hidden Note.md",
-    "_notes/Public/Credits.md"
+    "pages/404.md"
   ]
 }
