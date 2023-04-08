@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+                "file": "_notes/Public/Credits.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+                "file": "_notes/Public/Credits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+                "file": "_notes/Public/Credits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md"
+                "file": "_notes/Public/Credits.md"
               }
             }
           }
@@ -162,11 +162,11 @@
   "active": "2950d0226a250671",
   "lastOpenFiles": [
     "_notes/Public/Hidden Note.md",
-    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "_posts/2020-03-01-features.md",
     "_posts/2020-03-01-how-to.md",
-    "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Credits.md",
     "pages/posts.md",
     "pages/notes.md",
