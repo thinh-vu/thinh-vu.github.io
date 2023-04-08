@@ -1,5 +1,5 @@
 ---
-title : [{{title}}]
+title : {{title}}
 feed: show
 date : {{date:YYYY-MM-DD}} {{time:HH:mm}}
 ---

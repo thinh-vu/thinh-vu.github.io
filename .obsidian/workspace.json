@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Welcome to the garden.md",
+                "file": "src/template/Book Highlights.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Welcome to the garden.md",
+                "file": "src/template/Book Highlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Welcome to the garden.md",
+                "file": "src/template/Book Highlights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Welcome to the garden.md"
+                "file": "src/template/Book Highlights.md"
               }
             }
           },
@@ -165,16 +165,16 @@
   },
   "active": "6e9d3f963839c95f",
   "lastOpenFiles": [
+    "src/template/Bullet Journal.md",
+    "src/template/New Note.md",
     "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "Pasted image 20230408220627.png",
     "Pasted image 20230408220523.png",
     "Pasted image 20230408220418.png",
-    "src/template/New Note.md",
-    "src/template/Bullet Journal.md",
     "src/template/Book Highlights.md",
-    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "_notes/Public/Cài đặt.md",
-    "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Hidden Note.md",
     "_notes/Public/Markdown Rendered.md",
     "_notes/Public/Cách cài đặt.md",

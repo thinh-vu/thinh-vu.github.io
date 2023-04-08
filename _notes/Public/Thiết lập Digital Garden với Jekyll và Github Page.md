@@ -1,5 +1,5 @@
 ---
-title : [Thiết lập Digital Garden với Jekyll và Github Page]
+title : Thiết lập Digital Garden với Jekyll và Github Page
 feed: show
 date : 2023-04-08 21:45
 ---
