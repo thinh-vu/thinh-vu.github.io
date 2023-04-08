@@ -4,7 +4,7 @@
   "spellcheck": false,
   "showLineNumber": false,
   "showFrontmatter": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "src",

@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4a3a541c9906b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_index/How to.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -164,16 +177,22 @@
   },
   "active": "e87406fdf50cdb96",
   "lastOpenFiles": [
+    "_index/How to.md",
+    "_index/Index.md",
+    "src/template/Post.md",
+    "src/template/New Note.md",
+    "_index/Area.md",
+    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
+    "_posts/2020-03-01-features.md",
+    "_index",
     "_notes/Public/Markdown Rendered.md",
     "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
     "_journey/Public",
     "_story/Public",
     "_tutorial/Public",
     "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "_read/Public",
     "_notes/Public/Hidden Note.md",
-    "_posts/2020-03-01-features.md",
     "_read/The Minto Pyramid Principle - Barbara Minto.md",
     "_tutorial/Thiết lập Digital Garden với Jekyll và Github Page.md",
     "src/Pasted image 20230408230543.png",
@@ -188,7 +207,6 @@
     "_journey",
     "_includes/_journey",
     "src/template/Bullet Journal.md",
-    "src/template/New Note.md",
     "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "src/Pasted image 20230408220627.png",
     "src/Pasted image 20230408220523.png",
@@ -198,9 +216,6 @@
     "_notes/Public/Credits.md",
     "src/template/Daily Journal.md",
     "src/template/Weekly Journal.md",
-    "src/template/Monthly Journal.md",
-    "src/template/Life Review.md",
-    "src/template/People profile.md",
-    "src/template"
+    "src/template/Monthly Journal.md"
   ]
 }
