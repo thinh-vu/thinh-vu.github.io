@@ -5,7 +5,7 @@ date : 08-04-2023
 ---
 - 🗓 2023-04-08 21:45
 - Tags: #tutorial #note-taking
-- Relate: [[../../_index/How to]]
+- Relate: [[Index - How to]]
 
 ___
 
@@ -29,14 +29,18 @@ Obsidian | https://obsidian.md/ | Cài đặt Obsidian làm ứng dụng ghi ch�
 # Tuỳ chỉnh
 ### Cấu hình chung
 ![](../../src/Pasted%20image%2020230408220523.png)
+
 Các thiết lập chung có thể được tuỳ chỉnh trong file `_config.yml`, trong đó có 1 số mục cần quan tâm:
+
 - Mô tả trang & copyright
 ![](../../src/Pasted%20image%2020230408220627.png)
 ### Thanh menu
 Tìm và chỉnh sửa file `Nav.html`, có thể xoá các menu không phù hợp hoặc bổ sung theo ý
+
 ![](../../src/Pasted%20image%2020230408220418.png)
 # Cài đặt tracking
 - Sử dụng Google Tag Manager là công cụ duy nhất để quản lý các công cụ theo dõi hiệu năng website. Mặc định theme Jekyll-Garden không có thẻ `<head></head>` và `<body></body>` nên cần thêm vào để có thể đặt mã theo dõi của GTM theo yêu cầu.
+
 ![](../../src/Pasted%20image%2020230408230543.png)
 - Cài đặt Google Analytics vào GTM để theo dõi các thông tin cơ bản về lưu lượng truy cập
 # Lưu ý khi sử dụng
