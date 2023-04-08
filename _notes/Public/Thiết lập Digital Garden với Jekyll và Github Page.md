@@ -1,7 +1,7 @@
 ---
 title : Thiết lập Digital Garden với Jekyll và Github Page
 feed: show
-date : 2023-04-08 21:45
+date : 08-04-2023
 ---
 - 🗓 2023-04-08 21:45
 - Tags: #tutorial #note-taking
