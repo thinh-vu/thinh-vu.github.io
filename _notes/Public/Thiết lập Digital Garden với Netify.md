@@ -10,12 +10,11 @@ ___
 
 Xác thực liên kết Netify & Github, cho phép cài đặt Netify trên repo sử dụng làm Digital Garden
 
-![[/src/Pasted image 20230409054901.png]]
+![](/src/Pasted image 20230409054901.png)
 
-![[/src/Pasted image 20230409055053.png]]
+![](/src/Pasted image 20230409055053.png)
 
-![[/src/Pasted image 20230409055040.png]]
+![](/src/Pasted image 20230409055040.png)
 
 Test
-![](src/Pasted%20image%2020230408220418.png)
 ![](/src/Pasted%20image%2020230408220418.png)
