@@ -5,7 +5,7 @@
   "showLineNumber": false,
   "showFrontmatter": true,
   "useMarkdownLinks": false,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "src",
   "showUnsupportedFiles": false

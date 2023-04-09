@@ -26,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Bên kia cầu vồng.md",
+                "file": "_notes/Public/Thiết lập Digital Garden với Netify.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Bên kia cầu vồng.md",
+                "file": "_notes/Public/Thiết lập Digital Garden với Netify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Bên kia cầu vồng.md",
+                "file": "_notes/Public/Thiết lập Digital Garden với Netify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Bên kia cầu vồng.md"
+                "file": "_notes/Public/Thiết lập Digital Garden với Netify.md"
               }
             }
           },
@@ -178,13 +178,13 @@
   },
   "active": "43127a6d42c2de64",
   "lastOpenFiles": [
+    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
+    "_notes/Public/Bên kia cầu vồng.md",
     "google31049145a24afdba (1).html",
     "CNAME",
     "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
-    "_notes/Public/Bên kia cầu vồng.md",
     "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Thiết lập Digital Garden với Netify.md",
-    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
     "_notes/Public/Hidden Note.md",
     "_notes/Public/How to Index.md",
     "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
@@ -217,7 +217,6 @@
     "src/Pasted image 20230408230543.png",
     "pages/tutorial.md",
     "_tutorial",
-    "_story",
     "src/Pasted image 20230408220627.png",
     "src/Pasted image 20230408220523.png",
     "src/Pasted image 20230408220418.png"

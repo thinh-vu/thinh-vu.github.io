@@ -105,5 +105,14 @@
       ],
       "key": "E"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }
