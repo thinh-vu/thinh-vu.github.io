@@ -6,15 +6,10 @@ date : 09-04-2023
 ---
 
 # Book Info 📚
-Title: Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời
-Author: [[Atsushi Innami]]
-ISBN:
-Published:
-Finished: 2022-04-25
-Related: [[Đọc Sách Siêu Tốc - Christian Grüning]]
-Tags: #rapid-reading #knowledge-building
-[[_notes/Public/Learn]]
-[[Index - Read]]
+- Title: Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời
+- Author: [[Atsushi Innami]]
+- Finished: 2022-04-25
+- Related: [[Đọc Sách Siêu Tốc - Christian Grüning]] [[Read]]
 ___
 
 # Summary 💬

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b95664a516843dc",
+        "id": "ccc8e5e55ee89960",
         "type": "tabs",
         "children": [
           {
-            "id": "b18671554a672702",
+            "id": "52d68ca8da79ea46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2020-03-01-how-to.md",
+                "file": "_posts/2023-04-09-index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-03-01-how-to.md",
+                "file": "_posts/2023-04-09-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2020-03-01-how-to.md",
+                "file": "_posts/2023-04-09-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2020-03-01-how-to.md"
+                "file": "_posts/2023-04-09-index.md"
               }
             }
           },
@@ -162,34 +162,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "570c051bbb79da39",
+  "active": "52d68ca8da79ea46",
   "lastOpenFiles": [
+    "_notes/Public/Area.md",
+    "_notes/Public/Think.md",
+    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+    "_notes/Public/Story.md",
+    "_notes/Public/Read.md",
+    "_notes/Public/Learn.md",
+    "_notes/Public/Bên kia cầu vồng.md",
+    "_notes/Public/Credits.md",
+    "_notes/Public/MOC.md",
+    "_notes/Public/Project.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
+    "_notes/Public/Tutorial.md",
+    "_posts/2020-03-01-how-to.md",
     "_posts/2023-04-09-index.md",
     "_posts/2020-03-01-index.md",
     "_posts/2020-03-01-features copy.md",
     "_posts/2020-03-01-features.md",
     "src/template/Post.md",
-    "_posts/2020-03-01-how-to.md",
     "_posts/2023-04-08-index.md",
-    "_notes/Public/Credits.md",
     "src/template/Book Highlights.md",
     "src/template/Bullet Journal.md",
     "src/template/Index Note.md",
     "src/template/New Note.md",
-    "_notes/Public/Project.md",
-    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
-    "_notes/Public/Area.md",
-    "_notes/Public/Bên kia cầu vồng.md",
-    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
-    "_notes/Public/Hidden Note.md",
-    "_notes/Public/Learn.md",
-    "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Tutorial.md",
     "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/Think.md",
-    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
-    "_notes/Public/Story.md",
-    "_notes/Public/Read.md",
     "google31049145a24afdba.html",
     "google31049145a24afdba (1).html",
     "CNAME",
