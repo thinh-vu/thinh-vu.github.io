@@ -1,8 +1,8 @@
 ---
-title : Areas
+title : Area
 feed: hide
 format: list
-permalink: /areas
+permalink: /area
 date : 09-04-2023
 ---
 

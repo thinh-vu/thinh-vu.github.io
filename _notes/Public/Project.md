@@ -1,8 +1,8 @@
 ---
-title : Projects
+title : Project
 feed: hide
 format: list
-permalink: /projects
+permalink: /project
 date : 09-04-2023
 ---
 

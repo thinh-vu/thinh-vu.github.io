@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33df643aefb3aff6",
+        "id": "6b95664a516843dc",
         "type": "tabs",
         "children": [
           {
-            "id": "2af96c6fb491b4aa",
+            "id": "b18671554a672702",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Tutorial.md",
+                "file": "_posts/2020-03-01-how-to.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Tutorial.md",
+                "file": "_posts/2020-03-01-how-to.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Tutorial.md",
+                "file": "_posts/2020-03-01-how-to.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Tutorial.md"
+                "file": "_posts/2020-03-01-how-to.md"
               }
             }
           },
@@ -162,35 +162,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2af96c6fb491b4aa",
+  "active": "b18671554a672702",
   "lastOpenFiles": [
+    "_posts/2020-03-01-features.md",
+    "src/template/Post.md",
+    "_posts/2020-03-01-how-to.md",
+    "_posts/2023-04-08-index.md",
+    "_notes/Public/Credits.md",
+    "src/template/Book Highlights.md",
+    "src/template/Bullet Journal.md",
+    "src/template/Index Note.md",
+    "src/template/New Note.md",
+    "_notes/Public/Project.md",
+    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+    "_notes/Public/Area.md",
+    "_notes/Public/Bên kia cầu vồng.md",
+    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/Learn.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Tutorial.md",
+    "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Think.md",
     "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
-    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "_notes/Public/Story.md",
     "_notes/Public/Read.md",
-    "_notes/Public/Projects.md",
     "_notes/Public/MOC.md",
-    "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Learn.md",
-    "_notes/Public/Hidden Note.md",
-    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
-    "_notes/Public/Credits.md",
-    "_notes/Public/Areas.md",
-    "_notes/Public/Bên kia cầu vồng.md",
-    "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/Tutorial.md",
     "_notes/Public/Thiết lập Digital Garden với Netify.md",
     "google31049145a24afdba.html",
     "pages/404.md",
-    "pages/index.md",
-    "pages/lists.md",
-    "pages/notes.md",
-    "pages/posts.md",
-    "pages/tutorial.md",
-    "pages/story.md",
-    "pages/read.md",
-    "pages/journey.md",
     "google31049145a24afdba (1).html",
     "CNAME",
     "_layouts/Index.html",

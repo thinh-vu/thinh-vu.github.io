@@ -1,6 +1,7 @@
 ---
 title : {{title}}
 feed: show
+permalink: 
 date : {{date:DD-MM-YYYY}}
 ---
 
