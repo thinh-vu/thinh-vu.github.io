@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/404.md",
+                "file": "_notes/Public/Welcome to the garden.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43127a6d42c2de64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/Bên kia cầu vồng.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/404.md",
+                "file": "_notes/Public/Bên kia cầu vồng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/404.md",
+                "file": "_notes/Public/Bên kia cầu vồng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/404.md"
+                "file": "_notes/Public/Bên kia cầu vồng.md"
               }
             }
           },
@@ -162,19 +176,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e87406fdf50cdb96",
+  "active": "43127a6d42c2de64",
   "lastOpenFiles": [
+    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
+    "_notes/Public/Bên kia cầu vồng.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Thiết lập Digital Garden với Netify.md",
+    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/How to Index.md",
+    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+    "pages/404.md",
     "_posts/2023-04-08-index.md",
     "_posts/2020-03-01-how-to.md",
     "_posts/2020-03-01-features.md",
     "_notes/Public/Credits.md",
-    "_notes/Public/Hidden Note.md",
-    "_notes/Public/How to Index.md",
     "_notes/Public/Read Index.md",
-    "_notes/Public/Thiết lập Digital Garden với Netify.md",
-    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
-    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
-    "_notes/Public/Welcome to the garden.md",
     "src/template/Index Note.md",
     "src/template/New Note.md",
     "_notes/Public/Markdown Rendered.md",
@@ -200,10 +217,7 @@
     "_tutorial",
     "_story",
     "pages/story.md",
-    "pages/read.md",
-    "pages/journey.md",
     "_read",
-    "src/template/Bullet Journal.md",
     "src/Pasted image 20230408220627.png",
     "src/Pasted image 20230408220523.png",
     "src/Pasted image 20230408220418.png"
