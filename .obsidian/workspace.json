@@ -162,8 +162,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b18671554a672702",
+  "active": "570c051bbb79da39",
   "lastOpenFiles": [
+    "_posts/2023-04-09-index.md",
+    "_posts/2020-03-01-index.md",
+    "_posts/2020-03-01-features copy.md",
     "_posts/2020-03-01-features.md",
     "src/template/Post.md",
     "_posts/2020-03-01-how-to.md",
@@ -187,10 +190,7 @@
     "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
     "_notes/Public/Story.md",
     "_notes/Public/Read.md",
-    "_notes/Public/MOC.md",
-    "_notes/Public/Thiết lập Digital Garden với Netify.md",
     "google31049145a24afdba.html",
-    "pages/404.md",
     "google31049145a24afdba (1).html",
     "CNAME",
     "_layouts/Index.html",
