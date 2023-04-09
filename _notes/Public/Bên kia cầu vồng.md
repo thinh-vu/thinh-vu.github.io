@@ -5,11 +5,11 @@ date : 09-04-2023
 ---
 
 # Book Info 📚
-Title: Beyond the rainbow bridge - Nurturing our children from birth to seven
-Author: [[Barbara J. Patterson]] [[Pamela Bradley]] | [[Thanh Cherry]] dịch
-Format: [[Hard Cover]]
-Source: [[SWAVN]]
-Related: [[Read]]
+- Title: Beyond the rainbow bridge - Nurturing our children from birth to seven
+- Author: [[Barbara J. Patterson]] [[Pamela Bradley]] | [[Thanh Cherry]] dịch
+- Format: [[Hard Cover]]
+- Source: [[SWAVN]]
+- Related: [[Read]]
 
 ___
 ## Nuôi dạy những em bé khỏe mạnh hạnh phúc và đầy đủ khả năng
