@@ -1,6 +1,7 @@
 🇻🇳 Chào mừng đến với "Khu vườn kỹ thuật số" của tôi, một góc nhỏ trên cõi mạng nơi tôi chia sẻ công khai các ghi chú của mình trước khi hoàn thiện chúng thành các bài viết hoàn chỉnh trên [Thinh Vu Blog](https://thinhvu.com/). Tại đây, bạn sẽ tìm thấy các thông tin và suy nghĩ của tôi về các chủ đề mà tôi đam mê. Hãy khám phá và tham gia thảo luận để cùng góp sức trồng và nuôi dưỡng khu vườn này.
+Lưu ý: Những ghi chú này tập trung nhiều hơn vào việc giúp tôi suy nghĩ hơn là bạn tìm đọc, do đó bạn cũng đừng bất ngờ nếu nó không trau chuốt như nội dung trên Blog.
 
-Hãy bắt đầu dạo quanh khu vườn này tại liên kết: [thinh-vu.github.io](https://thinh-vu.github.io?source=github&medium=readme)
+Bạn có thể dạo quanh khu vườn này tại liên kết: [thinh-vu.github.io](https://thinh-vu.github.io?source=github&medium=readme)
 
 Bạn có thể trao đổi thêm với tôi về bất kỳ chủ đề nào bạn cảm thấy thú vị thông qua Messenger/Linkedin.
 

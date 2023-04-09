@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Markdown Rendered.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Markdown Rendered.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Markdown Rendered.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Markdown Rendered.md"
+                "file": "README.md"
               }
             }
           },
@@ -178,33 +178,34 @@
   },
   "active": "ffd4d3f1f73f6c40",
   "lastOpenFiles": [
-    "_notes/Public/Thiết lập Digital Garden với Netlify.md",
-    "_notes/Public/Bên kia cầu vồng.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Tutorial.md",
+    "_notes/Public/Story.md",
+    "_notes/Public/Read.md",
+    "_notes/Public/Project.md",
+    "_notes/Public/Learn.md",
     "_notes/Public/Kim tự tháp Minto.md",
+    "_notes/Public/Index.md",
+    "_notes/Public/Idea.md",
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
+    "_notes/Public/Credits.md",
+    "_notes/Public/Cẩm nang \"làm vườn\" 4.0.md",
+    "_notes/Public/Bên kia cầu vồng.md",
+    "_notes/Public/Area.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Thiết lập Digital Garden với Netlify.md",
     "src/Pasted image 20230409200507.png",
     "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
     "src/template/New Note.md",
-    "_notes/Public/Cẩm nang \"làm vườn\" 4.0.md",
-    "_notes/Public/Hidden Note.md",
-    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
     "src/template/Book Highlights.md",
-    "_notes/Public/Credits.md",
-    "_notes/Public/Area.md",
-    "_notes/Public/Markdown Rendered.md",
     "src/Pasted.md",
-    "_notes/Public/Think.md",
-    "_notes/Public/Story.md",
     "_notes/Public/Nguyên tắc MECE.md",
     "src/nguyen-tac-mece-bulletproof-problem-solving.jpg",
     "src/template/Post.md",
     "src/template/Index Note.md",
     "src/template/Bullet Journal.md",
-    "_posts/2020-03-01-how-to.md",
-    "_posts/2023-04-09-index.md",
-    "_notes/Public/Read.md",
-    "_notes/Public/Learn.md",
-    "_notes/Public/MOC.md",
     "google31049145a24afdba.html",
     "google31049145a24afdba (1).html",
     "CNAME",

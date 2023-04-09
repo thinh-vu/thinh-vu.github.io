@@ -6,6 +6,10 @@ permalink: /credits
 format: list
 ---
 
+- Related: [[Index]]
+
+___
+
 -   The creator of the [Jekyll-Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io)  repo on Github, which I forked as the back-end for this page.
 -   [Raghuveer](https://github.com/rgvr), who created [Simply Jekyll theme](https://github.com/rgvr/simply-jekyll)
 -   [Santosh Thottingal](https://github.com/santhoshtr) who introduced me to Digital Garden

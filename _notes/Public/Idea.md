@@ -1,12 +1,12 @@
 ---
-title : Area
+title : Idea
 feed: hide
 format: list
-permalink: /area
+permalink: /idea
 date : 09-04-2023
 ---
 
-Đây là các ghi chú thuộc những lĩnh vực tôi quan tâm.
+Những ý tưởng, suy nghĩ mới xuất hiện.
 
 - 🗓  2023-04-09 06:03
 - Related: [[Index]]
