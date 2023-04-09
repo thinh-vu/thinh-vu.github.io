@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c3aaee7ccdaabf8",
+        "id": "0039130bb9c7dcd7",
         "type": "tabs",
         "children": [
           {
-            "id": "28a8f543a0986ecd",
+            "id": "ffd4d3f1f73f6c40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Cẩm nang làm vườn.md",
+                "file": "_notes/Public/Kim tự tháp Minto.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 345.5
   },
   "right": {
     "id": "25de2bf95401c6d8",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Cẩm nang làm vườn.md",
+                "file": "_notes/Public/Kim tự tháp Minto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Cẩm nang làm vườn.md",
+                "file": "_notes/Public/Kim tự tháp Minto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Cẩm nang làm vườn.md"
+                "file": "_notes/Public/Kim tự tháp Minto.md"
               }
             }
           },
@@ -147,11 +147,25 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "4d273556bdf833df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0978f878f4caec60",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,34 +176,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28a8f543a0986ecd",
+  "active": "570c051bbb79da39",
   "lastOpenFiles": [
-    "_notes/Public/Cẩm nang làm vườn.md",
-    "src/template/Post.md",
-    "src/template/New Note.md",
-    "src/template/Index Note.md",
-    "src/template/Bullet Journal.md",
-    "src/template/Book Highlights.md",
-    "_notes/Public/Story.md",
-    "_notes/Public/Area.md",
-    "_notes/Public/Markdown Rendered.md",
-    "_posts/2020-03-01-how-to.md",
-    "_posts/2023-04-09-index.md",
-    "_notes/Public/Think.md",
+    "src/Pasted image 20230409200507.png",
+    "_notes/Public/Thiết lập Digital Garden với Netlify.md",
     "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
-    "_notes/Public/Read.md",
-    "_notes/Public/Learn.md",
-    "_notes/Public/Bên kia cầu vồng.md",
-    "_notes/Public/Credits.md",
-    "_notes/Public/MOC.md",
-    "_notes/Public/Project.md",
+    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
+    "src/template/New Note.md",
+    "_notes/Public/Cẩm nang \"làm vườn\" 4.0.md",
     "_notes/Public/Hidden Note.md",
     "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
-    "_notes/Public/Tutorial.md",
-    "_posts/2020-03-01-index.md",
-    "_posts/2020-03-01-features copy.md",
-    "_posts/2020-03-01-features.md",
-    "_posts/2023-04-08-index.md",
+    "_notes/Public/Kim tự tháp Minto.md",
+    "src/template/Book Highlights.md",
+    "_notes/Public/Bên kia cầu vồng.md",
+    "_notes/Public/Credits.md",
+    "_notes/Public/Area.md",
+    "_notes/Public/Markdown Rendered.md",
+    "src/Pasted.md",
+    "_notes/Public/Think.md",
+    "_notes/Public/Story.md",
+    "_notes/Public/Nguyên tắc MECE.md",
+    "src/nguyen-tac-mece-bulletproof-problem-solving.jpg",
+    "src/template/Post.md",
+    "src/template/Index Note.md",
+    "src/template/Bullet Journal.md",
+    "_posts/2020-03-01-how-to.md",
+    "_posts/2023-04-09-index.md",
+    "_notes/Public/Read.md",
+    "_notes/Public/Learn.md",
+    "_notes/Public/MOC.md",
     "google31049145a24afdba.html",
     "google31049145a24afdba (1).html",
     "CNAME",

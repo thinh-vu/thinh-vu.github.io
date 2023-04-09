@@ -8,8 +8,10 @@ date : 09-04-2023
 # Book Info 📚
 - Title: Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời
 - Author: [[Atsushi Innami]]
+- Format: [[Kindle]]
 - Finished: 2022-04-25
 - Related: [[Đọc Sách Siêu Tốc - Christian Grüning]] [[Read]]
+
 ___
 
 # Summary 💬

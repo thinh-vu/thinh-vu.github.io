@@ -1,6 +1,8 @@
 ---
 title : Thiết lập Digital Garden với Jekyll và Github Page
+aliases: [Thiết lập Digital Garden với Jekyll và Github Page]
 feed: show
+permalink: /digital-garden-jekyll-github-page
 date : 08-04-2023
 ---
 

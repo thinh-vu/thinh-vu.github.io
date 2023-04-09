@@ -1,4 +1,5 @@
 ---
+aliases: [The Minto Pyramid Principle - Barbara Minto]
 title : The Minto Pyramid Principle - Barbara Minto
 feed: show
 date : 08-04-2023
@@ -8,15 +9,13 @@ date : 08-04-2023
 - 🗓  2023-04-08 19:24
 - Author: [[Barbara Minto]]
 - Related: [[McKinsey]]
-- ISBN:
+- Format: [[Kindle]]
 - Published: 2003
 - Relate: [[Read]]
 
 ___
 
 # Quote 💡
-
-# Emotion 🎉
 
 # Summary 💬
 

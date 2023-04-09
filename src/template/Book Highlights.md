@@ -7,15 +7,12 @@ date : {{date:DD-MM-YYYY}}
 
 # Book Info 📚
 - 🗓  {{date:YYYY-MM-DD}} {{time:HH:mm}}
-- Author: [[]]
-- 🔗: [[]]
-- ISBN:
-- Published:
-
+- Author [[]]
+- Format [[]]
+- 🔗  [[]]
+- Published
 
 # Quote 💡
-
-# Emotion 🎉
 
 # Summary 💬
 

@@ -1,13 +1,15 @@
 ---
 title : Cẩm nang làm vườn
 feed: show
-permalink: 
+permalink: /digital-gardening
 date : 09-04-2023
 ---
 
 - 🗓 2023-04-09 16:31
-- 🔗: 
-- 💎: Tài nguyên cho người mới tìm hiểu về cách trở thành các lão nông [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners) và một số địa chỉ tham khảo cách các lão nông khác làm vườn [Second Brain](https://github.com/KasperZutterman/Second-Brain)
+
+- 🔗  [[Learn]]
+
+- 💎 Tài nguyên cho người mới tìm hiểu về cách trở thành các lão nông [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners) và một số địa chỉ tham khảo cách các lão nông khác làm vườn [Second Brain](https://github.com/KasperZutterman/Second-Brain)
 
 
 - Hạt giống: Gieo vào tâm trí những hạt giống tốt lành khuyến khích sự tìm tòi và sáng tạo. Bắt đầu với những ghi chú "nguyên tử" và liên kết với nhau thay vì biến tâm trí trở thành cái nhà kho với những thông tin rời rạc.
