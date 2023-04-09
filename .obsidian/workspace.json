@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e87406fdf50cdb96",
+            "id": "2af96c6fb491b4aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Welcome to the garden.md",
+                "file": "_notes/Public/Think.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "43127a6d42c2de64",
+            "id": "e2e007265a7bb200",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2af96c6fb491b4aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Public/Read Index.md",
+                "file": "_notes/Public/MOC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
+                "file": "_notes/Public/MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
+                "file": "_notes/Public/MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md"
+                "file": "_notes/Public/MOC.md"
               }
             }
           },
@@ -189,46 +176,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43127a6d42c2de64",
+  "active": "e2e007265a7bb200",
   "lastOpenFiles": [
-    "_notes/Public/Read Index.md",
+    "_notes/Public/Story.md",
+    "_notes/Public/Think.md",
+    "pages/404.md",
+    "pages/index.md",
+    "pages/lists.md",
+    "pages/notes.md",
+    "pages/posts.md",
+    "pages/tutorial.md",
+    "pages/story.md",
+    "pages/read.md",
+    "pages/journey.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Areas.md",
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/Credits.md",
+    "_notes/Public/Learn.md",
+    "_notes/Public/MOC.md",
+    "_notes/Public/Projects.md",
+    "_notes/Public/Bên kia cầu vồng.md",
+    "_notes/Public/Collect.md",
     "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
+    "_notes/Public/Markdown Rendered.md",
     "_notes/Public/Thiết lập Digital Garden với Netify.md",
     "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
-    "_notes/Public/Bên kia cầu vồng.md",
     "google31049145a24afdba (1).html",
     "CNAME",
-    "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/Hidden Note.md",
-    "_notes/Public/How to Index.md",
     "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
-    "pages/404.md",
     "_posts/2023-04-08-index.md",
-    "_posts/2020-03-01-how-to.md",
-    "_posts/2020-03-01-features.md",
-    "_notes/Public/Credits.md",
-    "src/template/Index Note.md",
-    "src/template/New Note.md",
-    "_notes/Public/Markdown Rendered.md",
-    "src/template/Post.md",
-    "src/template/Book Highlights.md",
     "_layouts/Index.html",
     "src/Pasted image 20230409055053.png",
     "src/Pasted image 20230409055040.png",
     "src/Pasted image 20230409054901.png",
     "_layouts/Post copy.html",
-    "_index/How to.md",
-    "_index/Index.md",
-    "_index/Area.md",
     "_index",
     "_journey/Public",
     "_story/Public",
     "_tutorial/Public",
     "_read/Public",
-    "_read/The Minto Pyramid Principle - Barbara Minto.md",
-    "_tutorial/Thiết lập Digital Garden với Jekyll và Github Page.md",
     "src/Pasted image 20230408230543.png",
-    "pages/tutorial.md",
     "_tutorial",
     "src/Pasted image 20230408220627.png",
     "src/Pasted image 20230408220523.png",

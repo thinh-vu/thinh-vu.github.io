@@ -11,7 +11,7 @@ date : 08-04-2023
 - ISBN:
 - Published: 2003
 - Tag: #book #thinking #writing
-- Relate: [[Read Index]]
+- Relate: [[_notes/Public/Learn]]
 
 ___
 

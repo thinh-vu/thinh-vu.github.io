@@ -1,6 +1,6 @@
 ---
 title: Credits
-feed: show
+feed: hide
 date: 08-04-2023
 permalink: /credits
 format: list

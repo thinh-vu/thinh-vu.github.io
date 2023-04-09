@@ -13,7 +13,7 @@ Published:
 Finished: 2022-04-25
 Related: [[Đọc Sách Siêu Tốc - Christian Grüning]]
 Tags: #rapid-reading #knowledge-building
-[[Read Index]]
+[[_notes/Public/Learn]]
 [[Index - Read]]
 ___
 
