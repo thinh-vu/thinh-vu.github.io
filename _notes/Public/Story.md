@@ -1,5 +1,5 @@
 ---
-title : Think
+title : Story
 feed: hide
 format: list
 permalink: /story
