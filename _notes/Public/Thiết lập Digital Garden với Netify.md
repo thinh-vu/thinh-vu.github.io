@@ -5,8 +5,7 @@ date : 09-04-2023
 ---
 
 - 🗓 2023-04-09 05:48
-- Tags:
-- Relate:
+- Relate: [[Tutorial]]
 ___
 
 Xác thực liên kết Netify & Github, cho phép cài đặt Netify trên repo sử dụng làm Digital Garden
