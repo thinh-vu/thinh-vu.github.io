@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-title: Thinh's Digital Garden
+title: Plant. Grow. Flourish
 ---
