@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0039130bb9c7dcd7",
+        "id": "61250c4902e1dc52",
         "type": "tabs",
         "children": [
           {
-            "id": "ffd4d3f1f73f6c40",
+            "id": "c75d8730bb4ef121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_notes/Public/Pull & push notes on mobile devices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_notes/Public/Pull & push notes on mobile devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_notes/Public/Pull & push notes on mobile devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_notes/Public/Pull & push notes on mobile devices.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "4d273556bdf833df",
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,39 +173,44 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "ffd4d3f1f73f6c40",
+  "active": "c75d8730bb4ef121",
   "lastOpenFiles": [
-    "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/Tutorial.md",
-    "_notes/Public/Story.md",
-    "_notes/Public/Read.md",
-    "_notes/Public/Project.md",
-    "_notes/Public/Learn.md",
-    "_notes/Public/Kim tự tháp Minto.md",
+    "_notes/Public/Digital Garden, Evergreen note và Zettelkasten.md",
     "_notes/Public/Index.md",
-    "_notes/Public/Idea.md",
-    "_notes/Public/Hidden Note.md",
-    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
     "_notes/Public/Credits.md",
-    "_notes/Public/Cẩm nang \"làm vườn\" 4.0.md",
-    "_notes/Public/Bên kia cầu vồng.md",
-    "_notes/Public/Area.md",
-    "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Thiết lập Digital Garden với Netlify.md",
-    "src/Pasted image 20230409200507.png",
-    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
-    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
-    "src/template/New Note.md",
+    "_notes/Public/Read.md",
     "src/template/Book Highlights.md",
-    "src/Pasted.md",
-    "_notes/Public/Nguyên tắc MECE.md",
-    "src/nguyen-tac-mece-bulletproof-problem-solving.jpg",
-    "src/template/Post.md",
+    "README.md",
+    "_notes/Public/Thương hiệu cá nhân.md",
     "src/template/Index Note.md",
-    "src/template/Bullet Journal.md",
+    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
+    "_notes/Public/Thế nào là Hạnh phúc?.md",
+    "_notes/Public/Wellbeing - The Five Essential Elements.md",
+    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
+    "_notes/Public/Bên kia cầu vồng.md",
+    "_notes/Public/Writing is Thinking.md",
+    "_notes/Public/Cẩm nang \"làm vườn\" 4.0.md",
+    "_notes/Public/Chuyện hẹn hò.md",
+    "_notes/Public/Communication.md",
+    "_notes/Public/Relationship.md",
+    "_notes/Public/Thiết lập Digital Garden với Netlify.md",
+    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+    "_notes/Public/Story.md",
+    "src/template/New Note.md",
+    "_notes/Public/Pull & push notes on mobile devices.md",
+    "pages/index.md",
+    "_notes/Public/Kim tự tháp Minto.md",
+    "src/Pasted image 20230410065944.png",
+    "src/Screenshot_20230410_062554_FolderSync.jpg",
+    "src/Screenshot_20230410_060109_Chrome.jpg",
+    "src/Screenshot_20230410_062402_Obsidian.jpg",
+    "_notes/Public/Welcome to the garden.md",
+    "src/Pasted image 20230409200507.png",
+    "src/nguyen-tac-mece-bulletproof-problem-solving.jpg",
     "google31049145a24afdba.html",
     "google31049145a24afdba (1).html",
     "CNAME",
@@ -219,9 +224,6 @@
     "_story/Public",
     "_tutorial/Public",
     "_read/Public",
-    "src/Pasted image 20230408230543.png",
-    "src/Pasted image 20230408220627.png",
-    "src/Pasted image 20230408220523.png",
-    "src/Pasted image 20230408220418.png"
+    "src/Pasted image 20230408230543.png"
   ]
 }

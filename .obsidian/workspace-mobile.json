@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "3f60d3fe32f75786",
+    "type": "split",
+    "children": [
+      {
+        "id": "4468f8208547d006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "464da41ae5348544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/Pull & push notes on mobile devices.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5993e4f006e9acb9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "be5b57c363ba4cbd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5e1e0119b00f90c1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bd5e7fad49ed74e2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c29b277decdea62c",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "993b807ab443dc91",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "44c5061b97630ec6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_notes/Public/Pull & push notes on mobile devices.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a528bb220b047d4e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_notes/Public/Pull & push notes on mobile devices.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "930860cc1eaa0612",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_notes/Public/Pull & push notes on mobile devices.md"
+          }
+        }
+      },
+      {
+        "id": "780f9ddb567934b8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "464da41ae5348544",
+  "lastOpenFiles": [
+    "src/Screenshot_20230410_062554_FolderSync.jpg",
+    "src/Screenshot_20230410_062402_Obsidian.jpg",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Pull & push notes on mobile devices.md",
+    "_notes/Public/Chuyện hẹn hò.md",
+    "src/Screenshot_20230410_060109_Chrome.jpg"
+  ]
+}

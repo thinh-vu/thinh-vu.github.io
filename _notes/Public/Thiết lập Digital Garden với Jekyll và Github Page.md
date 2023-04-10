@@ -15,11 +15,11 @@ Mình đã nghe nói tới việc thiết lập một static site với Github P
 
  Tên | Tham chiếu | Mô tả
  --- | --- | --- 
-Cài đặt Jekyll | https://jekyllrb.com/docs/installation/ | Cài đặt Jekyll phù hợp cho máy tính của bạn. Ở đây mình dùng macOS
-Jekyll Garden | https://github.com/Jekyll-Garden/jekyll-garden.github.io | Github repo dùng để copy cấu hình cho Digital Garden sử dụng Jekyll theme. Xem phần [How to](https://jekyll-garden.github.io/post/how-to)
-Github Desktop | https://desktop.github.com/ | Sử dụng để đồng bộ dữ liệu qua lại giữa Github và máy tính cho repo dùng làm Digital Garden
-Visual Studio Code | https://code.visualstudio.com/download | Cài đặt code editor cơ bản để chỉnh sửa các file trong repo cho thuận tiện
-Obsidian | https://obsidian.md/ | Cài đặt Obsidian làm ứng dụng ghi chú |
+Cài đặt Jekyll | [Jekyll](https://jekyllrb.com/docs/installation/) | Cài đặt Jekyll phù hợp cho máy tính của bạn. Ở đây mình dùng macOS
+Jekyll Garden | [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io) | Github repo dùng để copy cấu hình cho Digital Garden sử dụng Jekyll theme. Xem phần [How to](https://jekyll-garden.github.io/post/how-to)
+Github Desktop | [Github Desktop](https://desktop.github.com/) | Sử dụng để đồng bộ dữ liệu qua lại giữa Github và máy tính cho repo dùng làm Digital Garden
+Visual Studio Code | [VS Code](https://code.visualstudio.com/download) | Cài đặt code editor cơ bản để chỉnh sửa các file trong repo cho thuận tiện
+Obsidian | [Obsidian](https://obsidian.md/) | Cài đặt Obsidian làm ứng dụng ghi chú |
 
 
 # Thiết lập
@@ -47,3 +47,7 @@ Tìm và chỉnh sửa file `Nav.html`, có thể xoá các menu không phù h�
 Định dạng markdown được hỗ trợ bởi Jekyll sẽ có một số điểm khác biệt so với tuỳ chọn mặc định của Obsidian. Vì vậy, điều quan trọng là nắm được những khác biệt này và thiết lập cấu hình Obsidian để phù hợp với định dạng được hỗ trợ. Cần lưu ý một số điểm sau:
 - Sử dụng `Relative path to file` để đảm bảo hình và file đính kèm có thể hiển thị đúng
 - Tắt chế độ `Use [[Wikilinks]]` mặc định để đảm bảo file đính kèm sẽ được sử dụng Relative file path
+
+# Soạn thảo ghi chú
+- Ẩn các ghi chú dạng danh mục, chỉ dùng cho mục đích đặt backlink đến các ghi chú khác khỏi feed ghi chú. Đặt giá trị `hide` vào mục `feed` trong YAML meta.
+  ![](/src/Pasted%20image%2020230410065944.png)
