@@ -18,10 +18,21 @@ ___
 # Quote 💡
 
 # Summary 💬
+- Sắp xếp các ý tưởng để trình bày theo cấu trúc kim tự tháp
+	- Ý tưởng ở bất kỳ cấp nào của kim tự tháp là tóm tắt của các ý bên dưới (giải thích cho nó)
+	- Các ý tưởng cùng cấp phải cùng loại (category)
+	- Các ý tưởng phải được sắp xếp theo trật tự một cách logic
+- Có 4 cách để sắp xếp thứ tự ý tưởng
+	- Lối diễn giải: Luận điểm, dẫn chứng, kết luận
+	- Thứ tự thời gian: Thứ nhất, thứ hai
+	- Cấu trúc (các thành phần): Miền Bắc, Miền Trung, Miền Nam (vùng địa lý)
+	- So sánh: Quan trọng nhất, quan trọng nhì (mức độ quan trọng)
+- Trình bày ý tưởng cần quan tâm đến mối quan hệ hàng dọc (vertical) và hàng ngang (horizontal)
+
 
 # Highlights 📒
 ## PART 1: LOGIC IN WRITING
-### WHY A PYRAMID STRUCTURE
+### 1. WHY A PYRAMID STRUCTURE
 #### SORTING INTO PYRAMIDS
 
 ![](src/Pasted%20image%2020230409200507.png)
@@ -45,9 +56,19 @@ I have given you a piece of information, and without realizing it you will autom
 
 If you think for a moment about what you actua11y do when you write, you can see that you develop your major ideas by thinking in this bottom-up manner. At the very lowest level in the pyramid, you group together sentences, each containing an individual idea, into paragraphs.
 
-3 rules:
+3 rules: 
 
 1. Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.
 2. Ideas in each grouping must always be the same kind of idea. 
 3. Ideas in each grouping must always be logically ordered.
+P10
+![](src/Pasted%20image%2020230410203514.png)
 
+Essentially it says that there are only four possible logical ways in which to order a set of ideas:
+- Deductively (major premise, minor premise, conclusion) 
+- Chronologically (first, second, third)
+- Structurally (Boston, New York, Washington)  
+- Comparatively (first most important, second most important, etc.)
+
+### 2. THE SUBSTRUCTURES WITHIN  THE PYRAMID
+THE VERTICAL RELATIONSHIP

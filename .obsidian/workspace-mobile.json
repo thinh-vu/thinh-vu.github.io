@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Pull & push notes on mobile devices.md",
+                "file": "_notes/Public/Overthinking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/Public/Pull & push notes on mobile devices.md",
+            "file": "_notes/Public/Overthinking.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/Public/Pull & push notes on mobile devices.md",
+            "file": "_notes/Public/Overthinking.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/Public/Pull & push notes on mobile devices.md"
+            "file": "_notes/Public/Overthinking.md"
           }
         }
       },
@@ -132,6 +132,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
@@ -141,10 +142,11 @@
   },
   "active": "464da41ae5348544",
   "lastOpenFiles": [
+    "_notes/Public/Pull & push notes on mobile devices.md",
+    "_notes/Public/Overthinking.md",
     "src/Screenshot_20230410_062554_FolderSync.jpg",
     "src/Screenshot_20230410_062402_Obsidian.jpg",
     "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Pull & push notes on mobile devices.md",
     "_notes/Public/Chuyện hẹn hò.md",
     "src/Screenshot_20230410_060109_Chrome.jpg"
   ]

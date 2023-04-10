@@ -19,9 +19,12 @@ aliases: [Pull & push notes on mobile devices]
 	- Obsidian có plugin làm việc với Git nhưng bản mobile không hiệu quả
 - **Solution:**
 	- Cần làm hoàn toàn bằng điện thoại:
-		- Sử dụng Folder Sync ^[folder-sync] để đồng bộ Git Repo về điện thoại, bảo gồm toàn bộ cài đặt Obsidian vault. Lần đầu thực hiện mất thời gian chờ vì repo có rất nhiều file, lên lịch đồng bộ 4h/lần tự động.  ![](/src/Screenshot_20230410_062554_FolderSync.jpg)
-		- Soạn thảo ghi chú bằng Obsidian mobile ^[obsidian-mobile], trải nghiệm quen thuộc và đày đủ tính năng. [^2] ![](/src/Screenshot_20230410_062402_Obsidian.jpg)
-		- Mở Github repo bằng vscode.dev ^[vscode-dev] qua Chrome, tạo file mới. Copy/paste nội dung ghi chú từ Obsidian qua. Commit để đẩy nội dung mới lên. [^3] ![](/src/Screenshot_20230410_060109_Chrome.jpg)
+		- Sử dụng Folder Sync ^[folder-sync] để đồng bộ Git Repo về điện thoại, bảo gồm toàn bộ cài đặt Obsidian vault. Lần đầu thực hiện mất thời gian chờ vì repo có rất nhiều file, lên lịch đồng bộ 4h/lần tự động.  
+		  [^folder-sync]: ![](/src/Screenshot_20230410_062554_FolderSync.jpg)
+		- Soạn thảo ghi chú bằng Obsidian mobile ^[obsidian-mobile], trải nghiệm quen thuộc và đầy đủ tính năng. 
+		  [^obsidian-mobile]: ![](/src/Screenshot_20230410_062402_Obsidian.jpg)
+		- Mở Github repo bằng vscode.dev ^[vscode-dev] qua Chrome, tạo file mới. Copy/paste nội dung ghi chú từ Obsidian qua. Commit để đẩy nội dung mới lên. 
+		  [^vscode-dev]: ![](/src/Screenshot_20230410_060109_Chrome.jpg)
 	- Soạn thảo trên điện thoại, commit trên máy tính:
 		- Soạn thảo bằng Obsidian, đồng bộ bằng Folder Sync
 		- Khi mở máy tính thì commit lên Github. Điểm bất tiện là Onedrive mất thời gian kiểm tra file và đồng bộ khá lâu.

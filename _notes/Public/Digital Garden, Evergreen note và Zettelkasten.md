@@ -1,5 +1,5 @@
 ---
-title : Evergreen note và Zettelkasten
+title : Digital Garden, Evergreen note và Zettelkasten
 feed: show
 permalink: digital-garden-evergreen-note-zettelkasten
 date : 10-04-2023
@@ -9,7 +9,7 @@ aliases: [Evergreen note và Zettelkasten]
 - 🗓 2023-04-10 07:53
 - 🔗 [[Cẩm nang "làm vườn" 4.0]]
 
->[[Writing is Thinking]] : Tập trung vào quá trình suy nghĩ, sử dụng ghi chú là công cụ, đầu ra của quá trình là tích luỹ kiến thức mới, không nhất thiết phải là bài nghiên cứu hay đăng blog.
+>[[_notes/Public/Viết là tư duy]] : Tập trung vào quá trình suy nghĩ, sử dụng ghi chú là công cụ, đầu ra của quá trình là tích luỹ kiến thức mới, không nhất thiết phải là bài nghiên cứu hay đăng blog.
 
 ---
 

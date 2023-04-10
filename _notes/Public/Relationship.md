@@ -1,5 +1,5 @@
 ---
-title : Mối quan hệ
+title : Relationship
 feed: hide
 format: list
 permalink: /relationship

@@ -1,5 +1,5 @@
 ---
-title : Giao tiếp
+title : Communication
 feed: hide
 format: list
 permalink: /communication
