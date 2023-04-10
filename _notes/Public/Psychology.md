@@ -1,6 +1,6 @@
 ---
 title : Psychology
-feed: show
+feed: hide
 format: list
 permalink: 
 date : 10-04-2023
