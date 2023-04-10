@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "61250c4902e1dc52",
+        "id": "609e57dc016fc55b",
         "type": "tabs",
         "children": [
           {
-            "id": "c75d8730bb4ef121",
+            "id": "6f79071535e1ac79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Pull & push notes on mobile devices.md",
+                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Pull & push notes on mobile devices.md",
+                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Pull & push notes on mobile devices.md",
+                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Pull & push notes on mobile devices.md"
+                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md"
               }
             }
           },
@@ -177,10 +177,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c75d8730bb4ef121",
+  "active": "6f79071535e1ac79",
   "lastOpenFiles": [
-    "_notes/Public/Digital Garden, Evergreen note và Zettelkasten.md",
+    "_notes/Public/Kim tự tháp Minto.md",
+    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "_notes/Public/Index.md",
+    "_notes/Public/Pull & push notes on mobile devices.md",
+    "_notes/Public/Digital Garden, Evergreen note và Zettelkasten.md",
     "_notes/Public/Credits.md",
     "_notes/Public/Read.md",
     "src/template/Book Highlights.md",
@@ -198,12 +201,9 @@
     "_notes/Public/Communication.md",
     "_notes/Public/Relationship.md",
     "_notes/Public/Thiết lập Digital Garden với Netlify.md",
-    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
     "_notes/Public/Story.md",
     "src/template/New Note.md",
-    "_notes/Public/Pull & push notes on mobile devices.md",
     "pages/index.md",
-    "_notes/Public/Kim tự tháp Minto.md",
     "src/Pasted image 20230410065944.png",
     "src/Screenshot_20230410_062554_FolderSync.jpg",
     "src/Screenshot_20230410_060109_Chrome.jpg",

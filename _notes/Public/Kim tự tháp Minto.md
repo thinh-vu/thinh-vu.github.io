@@ -15,10 +15,3 @@ Thay vì nhớ những thông tin rời rạc, hãy cố gắng nhóm chúng l�
 
 Tham chiếu
 
-![](src/Pasted%20image%2020230409200507.png)
-
-**The Need to State the Logic**
-
-Now clearly, it is not enough simply to group the ideas in a logical way without also stating to yourself what the logic of the relationship is. The point in grouping was not just to move from a set of nine items to separate sets of four, two, and three items. That still comes to nine. What you want to do is move above the nine, to three.
-
-This means that instead of remembering each of the nine items, you remember only the three categories into which they fal1. You are thinking one level of abstraction higher, but because the thought is at a higher level, it suggests the items below it. And, because the relationship is not a contrived one as was the case in the exercise about the lake and the sugar, it is much easier to keep in mind.
