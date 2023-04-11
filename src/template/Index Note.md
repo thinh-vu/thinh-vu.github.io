@@ -1,12 +1,10 @@
 ---
 title : {{title}}
+permalink: 
 feed: show
 format: list
-permalink: 
-date : {{date:DD-MM-YYYY}}
+date : {{date:DD-MM-YYYY}} {{time:HH:mm}}
+meta: 
 ---
-
-- 🗓  {{date:YYYY-MM-DD}} {{time:HH:mm}}
-- 🔗
 
 

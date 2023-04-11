@@ -3,10 +3,8 @@ title : Pull & push notes on mobile devices
 feed: show
 permalink: /tao-ghi-chu-dong-bo-voi-git-tren-dien-thoai
 date : 10-04-2023
-aliases: [Pull & push notes on mobile devices]
 ---
 
-- 🗓 2023-04-10 06:03
 - 🔗 [[Cẩm nang "làm vườn" 4.0]] [[Thiết lập Digital Garden với Jekyll và Github Page]]
 
 - **Problem:** Khó tạo mới ghi chú và đưa lên Digital Garden (Git repo) từ điện thoại.

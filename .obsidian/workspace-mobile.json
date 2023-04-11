@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Overthinking.md",
+                "file": "src/template/Book Highlights.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/Public/Overthinking.md",
+            "file": "src/template/Book Highlights.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/Public/Overthinking.md",
+            "file": "src/template/Book Highlights.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/Public/Overthinking.md"
+            "file": "src/template/Book Highlights.md"
           }
         }
       },
@@ -142,8 +142,21 @@
   },
   "active": "464da41ae5348544",
   "lastOpenFiles": [
-    "_notes/Public/Pull & push notes on mobile devices.md",
+    "src/template/Bullet Journal.md",
+    "src/template/Index Note.md",
+    "src/template/Post.md",
+    "src/template/New Note.md",
+    "_notes/Public/Pyramid of Life.md",
+    "_notes/Public/Wellbeing - The Five Essential Elements.md",
+    "_notes/Public/MOC.md",
+    "_notes/Public/Product mindset.md",
+    "_notes/Public/Personal MBA.md",
+    "src/template/Book Highlights.md",
+    "_notes/Public/Business Model Generation.md",
+    "_notes/Public/Thiết lập Digital Garden với Netlify.md",
+    "_notes/Public/Thiết lập Digital Garden với Netify.md",
     "_notes/Public/Overthinking.md",
+    "_notes/Public/Pull & push notes on mobile devices.md",
     "src/Screenshot_20230410_062554_FolderSync.jpg",
     "src/Screenshot_20230410_062402_Obsidian.jpg",
     "_notes/Public/Markdown Rendered.md",

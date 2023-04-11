@@ -6,11 +6,8 @@ date : 10-04-2023
 ---
 
 # Book Info 📚
-- 🗓  2023-04-10 08:41
 - Author [[Tom Rath]] [[Tim Harter]] Đồng tác giả của cuốn [[Strength Finder 2.0]]
-- Format [[Waka ebook]]
 - 🔗   [Amazon](https://www.amazon.com/Wellbeing-Essential-Elements-Tom-Rath-ebook/dp/B003RWSBH2?ref_=ast_author_dp)
-- Published
 
 # Quote 💡
 

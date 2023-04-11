@@ -1,19 +1,15 @@
 ---
 title : {{title}}
-feed: show
 permalink: 
-date : {{date:DD-MM-YYYY}}
+feed: show
+date : {{date:DD-MM-YYYY}} {{time:HH:mm}}
+meta: 
 ---
 
-# Book Info 📚
-- 🗓  {{date:YYYY-MM-DD}} {{time:HH:mm}}
-- Author [[]]
-- Format [[]]
-- 🔗  [[]]
-- Published
+# 📚 Book Info
+- Author: 
+- Related: 
 
-# Quote 💡
+# 💬 Summary
 
-# Summary 💬
-
-# Highlights 📒
+# 📒 Highlights

@@ -1,15 +1,11 @@
 ---
 title : {{title}}
-feed: show
 permalink: 
-date : {{date:DD-MM-YYYY}}
+feed: show
 aliases: [{{title}}]
+date : {{date:DD-MM-YYYY}} {{time:HH:mm}}
+meta: 
 ---
 
-- 🗓 {{date:YYYY-MM-DD}} {{time:HH:mm}}
-- 🔗 
 
 
----
-
-**Nguồn**:

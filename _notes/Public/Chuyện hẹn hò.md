@@ -3,10 +3,8 @@ title : Chuyện hẹn hò
 feed: show
 permalink: /chuyen-hen-ho
 date : 09-04-2023
-aliases: [Chuyện hẹn hò]
 ---
 
-- 🗓 2023-04-09 23:14
 - 🔗 [[_notes/Public/Communication]] [[_notes/Public/Relationship]]
 
 > [[Thương hiệu cá nhân]] của bạn chính là những gì người khác nói về bạn khi bạn không ở trong phòng. — Jeff Bezos

@@ -6,9 +6,7 @@ date : 10-04-2023
 ---
 
 # Book Info 📚
-- 🗓  2023-04-10 20:23
 - Author [[Thich Nhat Hanh]]
-- Format [[Kindle]]
 - 🔗  [[Happiness]]
 
 # Summary 💬

@@ -3,14 +3,11 @@ title : Stop Overthinking
 feed: show
 permalink: /stop-overthinking-book
 date : 10-04-2023
-aliases: [Stop Overthinking]
 ---
 
 # Book Info 📚
-- 🗓  2023-04-10 19:40
 - Title: Stop Overthinking - 23 Techniques to Relieve Stress, Stop Negative Spirals, Declutter Your Mind, and Focus on the Present
 - Author [[Nick Trenton]]
-- Format [[Kindle]]
 - 🔗  [[Psychology]] [[Read]] [[Stress Management]] [[Time Management]]
 
 # Summary 💬

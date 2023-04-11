@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+                "file": "_notes/Public/Product mindset.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 345.5,
+    "collapsed": true
   },
   "right": {
     "id": "25de2bf95401c6d8",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+                "file": "_notes/Public/Product mindset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
+                "file": "_notes/Public/Product mindset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md"
+                "file": "_notes/Public/Product mindset.md"
               }
             }
           },
@@ -165,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 370.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,32 +181,33 @@
   },
   "active": "7df0eafbeba61600",
   "lastOpenFiles": [
-    "src/Pasted image 20230410203514.png",
+    "_notes/Public/Visual note-taking.md",
+    "_notes/Public/Bên kia cầu vồng.md",
+    "_notes/Public/Area.md",
+    "_notes/Public/Author.md",
+    "_notes/Public/move your body every day.md",
+    "_posts/2023-04-09-index.md",
+    "_posts/2020-03-01-how-to.md",
+    "_posts/2020-03-01-features.md",
+    "_notes/Public/Business Model Generation.md",
+    "_notes/Public/Cẩm nang \"làm vườn\" 4.0.md",
+    "_notes/Public/Chuyện hẹn hò.md",
+    "_notes/Public/Communication.md",
+    "_notes/Public/Credits.md",
+    "_notes/Public/Digital Garden, Evergreen note và Zettelkasten.md",
+    "_notes/Public/Viết là tư duy.md",
+    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
     "_notes/Public/Gieo trồng hạnh phúc.md",
     "_notes/Public/Happiness.md",
-    "_notes/Public/Author.md",
-    "_notes/Public/Stop Overthinking.md",
-    "src/template/Book Highlights.md",
-    "_notes/Public/Psychology.md",
-    "src/template/Bullet Journal.md",
-    "src/template/Index Note.md",
-    "src/template/Post.md",
-    "src/template/New Note.md",
-    "_notes/Public/Thương hiệu cá nhân.md",
-    "_notes/Public/Pull & push notes on mobile devices.md",
-    "_notes/Public/Project.md",
-    "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Learn.md",
-    "_notes/Public/Kim tự tháp Minto.md",
-    "_notes/Public/Index.md",
-    "_notes/Public/Idea.md",
     "_notes/Public/Hidden Note.md",
-    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
-    "_notes/Public/Digital Garden, Evergreen note và Zettelkasten.md",
-    "_notes/Public/Credits.md",
-    "_notes/Public/Communication.md",
-    "_notes/Public/Chuyện hẹn hò.md",
-    "_notes/Public/Cẩm nang \"làm vườn\" 4.0.md",
+    "_notes/Public/Idea.md",
+    "_notes/Public/Index.md",
+    "_notes/Public/Kim tự tháp Minto.md",
+    "_notes/Public/Learn.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Personal MBA.md",
+    "_notes/Public/Product mindset.md",
+    "src/Pasted image 20230410203514.png",
     "src/Pasted image 20230410065944.png",
     "src/Screenshot_20230410_062554_FolderSync.jpg",
     "src/Screenshot_20230410_060109_Chrome.jpg",
@@ -223,7 +226,6 @@
     "_journey/Public",
     "_story/Public",
     "_tutorial/Public",
-    "_read/Public",
-    "src/Pasted image 20230408230543.png"
+    "_read/Public"
   ]
 }

@@ -5,7 +5,6 @@ permalink: /digital-gardening
 date : 09-04-2023
 ---
 
-- 🗓 2023-04-09 16:31
 - 🔗  [[Learn]]
 
 💎  Tài nguyên cho người mới để trở thành các lão nông: 
