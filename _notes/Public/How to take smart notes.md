@@ -2,7 +2,7 @@
 title : How to take smart notes
 permalink: /how_to_take_smart_note
 feed: show
-date : 14-04-2023 21:40
+date : 14-04-2023
 meta: 
 ---
 
