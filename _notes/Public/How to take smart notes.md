@@ -1,6 +1,6 @@
 ---
 title : How to take smart notes
-permalink: /how_to_take_smart_note
+permalink: /how_to_take_smart_notes
 feed: show
 date : 14-04-2023
 meta: 
