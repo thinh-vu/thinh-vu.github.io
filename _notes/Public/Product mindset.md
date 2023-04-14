@@ -1,6 +1,6 @@
 ---
 title : Product mindset
-feed: hide
+feed: show
 permalink: /product-mindset
 date : 11-04-2023
 ---
