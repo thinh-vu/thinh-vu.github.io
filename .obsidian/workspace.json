@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "733adc2bcd983c29",
+        "id": "3319f23dcfeb433b",
         "type": "tabs",
         "children": [
           {
-            "id": "db72cd72768e5ddf",
+            "id": "a4fedcc9c051f16d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/How to take smart notes.md",
+                "file": "_notes/Public/Stop Overthinking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a46a41ba2a30c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/template/Book Highlights.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/How to take smart notes.md",
+                "file": "src/template/Book Highlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/How to take smart notes.md",
+                "file": "src/template/Book Highlights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +140,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/How to take smart notes.md"
+                "file": "src/template/Book Highlights.md"
               }
-            }
-          },
-          {
-            "id": "dbf03fcd3d3ea015",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -143,6 +149,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "19e4a786c9b527e8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -173,57 +187,21 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db72cd72768e5ddf",
+  "active": "5a46a41ba2a30c63",
   "lastOpenFiles": [
+    "src/template/Bullet Journal.md",
+    "src/template/Index Note.md",
     "src/template/New Note.md",
-    "_notes/Public/How to take smart notes.md",
-    "_notes/Public/Bên kia cầu vồng.md",
-    "_notes/Public/Test ghi chu moi.md",
-    "_notes/Public/Chuyện hẹn hò.md",
-    "ultilities",
-    "_notes/Public/cleanup_task.py",
-    "How to take smart notes.md",
-    "_notes/Public/Wellbeing - The Five Essential Elements.md",
-    "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/Viết là tư duy.md",
-    "_notes/Public/Tutorial.md",
-    "_notes/Public/Thương hiệu cá nhân.md",
-    "_notes/Public/Thiết lập Digital Garden với Netlify.md",
-    "_notes/Public/Thiết lập Digital Garden với Jekyll và Github Page.md",
-    "_notes/Public/Thế nào là Hạnh phúc?.md",
-    "_notes/Public/The Minto Pyramid Principle - Barbara Minto.md",
-    "_notes/Public/Story.md",
+    "src/template/Post.md",
+    "src/template/Book Highlights.md",
+    "_notes/Public/Lessons for the 21st Century.md",
     "_notes/Public/Stop Overthinking.md",
-    "_notes/Public/Relationship.md",
-    "_notes/Public/Read.md",
-    "_notes/Public/Pyramid of Life.md",
-    "_notes/Public/Pull & push notes on mobile devices.md",
-    "_notes/Public/Psychology.md",
-    "_notes/Public/Project.md",
-    "_notes/Public/Product mindset.md",
-    "_notes/Public/Personal MBA.md",
-    "_notes/Public/move your body every day.md",
-    "src/Pasted image 20230410203514.png",
-    "src/Pasted image 20230410065944.png",
-    "src/Screenshot_20230410_062554_FolderSync.jpg",
-    "src/Screenshot_20230410_060109_Chrome.jpg",
-    "src/Screenshot_20230410_062402_Obsidian.jpg",
-    "src/Pasted image 20230409200507.png",
-    "src/nguyen-tac-mece-bulletproof-problem-solving.jpg",
-    "google31049145a24afdba.html",
-    "google31049145a24afdba (1).html",
-    "CNAME",
-    "_layouts/Index.html",
-    "src/Pasted image 20230409055053.png",
-    "src/Pasted image 20230409055040.png",
-    "src/Pasted image 20230409054901.png",
-    "_layouts/Post copy.html",
-    "_index",
-    "_journey/Public",
-    "_story/Public"
+    "_notes/Public/Cộng đồng vnstock python.md",
+    "_notes/Public/How to take smart notes.md",
+    "How to take smart notes.md"
   ]
 }
