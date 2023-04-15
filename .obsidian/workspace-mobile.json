@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/template/Book Highlights.md",
+                "file": "_notes/Public/Financial Analytics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "src/template/Book Highlights.md",
+            "file": "_notes/Public/Financial Analytics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "src/template/Book Highlights.md",
+            "file": "_notes/Public/Financial Analytics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "src/template/Book Highlights.md"
+            "file": "_notes/Public/Financial Analytics.md"
           }
         }
       },
@@ -142,6 +142,8 @@
   },
   "active": "464da41ae5348544",
   "lastOpenFiles": [
+    "src/template/Book Highlights.md",
+    "_notes/Public/Financial Analytics.md",
     "src/template/Bullet Journal.md",
     "src/template/Index Note.md",
     "src/template/Post.md",
@@ -151,7 +153,6 @@
     "_notes/Public/MOC.md",
     "_notes/Public/Product mindset.md",
     "_notes/Public/Personal MBA.md",
-    "src/template/Book Highlights.md",
     "_notes/Public/Business Model Generation.md",
     "_notes/Public/Thiết lập Digital Garden với Netlify.md",
     "_notes/Public/Thiết lập Digital Garden với Netify.md",
