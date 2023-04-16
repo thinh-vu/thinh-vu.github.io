@@ -20,7 +20,7 @@ Product mindset được tạo thành bởi 3 đặc điểm và nguyên lý sau
 	- minimize time to value
 	- solve for need: giải quyết nhu cầu thực tế từ người dùng
 	- excel at change: Linh hoạt trong với thay đổi/thích ứng tốt
-- 
+
 # Highlights 📒
 
 Mindsets aren’t just any beliefs. They are beliefs that orient our reactions and tendencies. They serve a number of cognitive functions. They let us frame situations: they direct our attention to the most important cues so that we’re not overwhelmed with information. They suggest sensible goals so that we know what we should be trying to achieve. They prime us with reasonable courses of action so that we don’t have to puzzle out what to do. When our mindsets become habitual, they define who we are and who we can become. 14 —GARY KLEIN, PHD - (Page 36). 

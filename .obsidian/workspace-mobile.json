@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Financial Analytics.md",
+                "file": "_notes/Public/Pyramid of Life.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Life",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "993b807ab443dc91",
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/Public/Financial Analytics.md",
+            "file": "_notes/Public/Pyramid of Life.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/Public/Financial Analytics.md",
+            "file": "_notes/Public/Pyramid of Life.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/Public/Financial Analytics.md"
+            "file": "_notes/Public/Pyramid of Life.md"
           }
         }
       },
@@ -142,8 +142,12 @@
   },
   "active": "464da41ae5348544",
   "lastOpenFiles": [
-    "src/template/Book Highlights.md",
+    "_notes/Public/The forgetting curve.md",
+    "_notes/Public/The forgeting curve.md",
+    "src/Pasted image 20230416212427.png",
+    "src/Pasted image 20230416192347.png",
     "_notes/Public/Financial Analytics.md",
+    "src/template/Book Highlights.md",
     "src/template/Bullet Journal.md",
     "src/template/Index Note.md",
     "src/template/Post.md",

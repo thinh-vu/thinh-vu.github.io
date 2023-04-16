@@ -14,9 +14,7 @@ date : 14-04-2023
 # 📒 Highlights
 ## 1.1 Good Solutions are Simple – and Unexpected
 
-
 the fastest car won’t help you much if you don’t have proper roads to drive it on.
-
 
 Allen calls a “mind like water” - the state where we can focus on the work right in front of us without getting distracted by competing thoughts.
 

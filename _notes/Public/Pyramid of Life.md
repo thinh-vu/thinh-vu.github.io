@@ -5,7 +5,7 @@ permalink:
 date : 11-04-2023
 ---
 
-Kết nối với Ikigai, vòng tròn năng lực
+Kết nối với Ikigai, vòng tròn năng lực (the circle of competence),
 Numerology 
 
 - Happy Life
@@ -30,3 +30,6 @@ Numerology
 	- Health
 	- Community
 		- Public Impact
+
+![](src/Pasted%20image%2020230416192347.png)
+Source: [4weekMBA](https://fourweekmba.com/circle-of-competence/)
