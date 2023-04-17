@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Giving back.md",
+                "file": "pages/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Giving back.md",
+                "file": "pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Giving back.md",
+                "file": "pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Giving back.md"
+                "file": "pages/index.md"
               }
             }
           },
@@ -179,13 +179,15 @@
   },
   "active": "0e510f4822f52940",
   "lastOpenFiles": [
+    "pages/Index.md",
+    "pages/index.md",
+    "_notes/Public/Giving back.md",
     "_notes/Public/Financial Security.md",
     "_notes/Public/Gratitude.md",
     "_notes/Public/Handling markdown with Python.md",
     "_notes/Public/Happiness.md",
     "_notes/Public/Health.md",
     "_notes/Public/How to take smart notes.md",
-    "_notes/Public/Index.md",
     "_notes/Public/Investment.md",
     "_notes/Public/Journey.md",
     "_notes/Public/Leisure.md",
@@ -203,8 +205,6 @@
     "_notes/Public/Personal MBA.md",
     "_notes/Public/Physical Health.md",
     "_notes/Public/Product mindset.md",
-    "_notes/Public/Productivity.md",
-    "_notes/Public/Pyramid of Life.md",
     "_notes/Public/cleanup_task.py",
     "src/Pasted image 20230416192347.png",
     "src/Pasted image 20230416212427.png",
