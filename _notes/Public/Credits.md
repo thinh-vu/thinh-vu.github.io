@@ -6,7 +6,7 @@ permalink: /credits
 format: list
 ---
 
-- Related: [[Index]]
+- Related: [[Cẩm nang "làm vườn" 4.0]]
 
 ___
 

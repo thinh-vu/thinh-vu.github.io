@@ -1,5 +1,5 @@
 ---
-title : Pyramid of Life
+title : The Garden of Life
 feed: show
 permalink: 
 date : 11-04-2023

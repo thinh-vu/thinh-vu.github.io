@@ -47,4 +47,4 @@ def replace_string_in_files(folder_path, search_for, replace_with):
 # Apply functions
 
 note_folder = '/Users/thinh.vu/Library/CloudStorage/OneDrive-Personal/Github/thinh-vu.github.io/_notes/Public'
-replace_string_in_files(note_folder, '[[pages/Index]]', '[[Index]]')
+replace_string_in_files(note_folder, '[[Learn]]', '[[Lifelong Learning]]')

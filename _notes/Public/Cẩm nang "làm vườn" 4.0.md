@@ -5,7 +5,7 @@ permalink: /digital-gardening
 date : 09-04-2023
 ---
 
-- 🔗  [[Learn]]
+- 🔗  [[Lifelong Learning]]
 
 💎  Tài nguyên cho người mới để trở thành các lão nông: 
 - [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners)

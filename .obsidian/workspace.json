@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b300b0f215d68dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Public/Bên kia cầu vồng.md",
+                "file": "_notes/Public/Handling markdown with Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Bên kia cầu vồng.md",
+                "file": "_notes/Public/Handling markdown with Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Bên kia cầu vồng.md",
+                "file": "_notes/Public/Handling markdown with Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Bên kia cầu vồng.md"
+                "file": "_notes/Public/Handling markdown with Python.md"
               }
             }
           },
@@ -191,9 +177,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b300b0f215d68dc",
+  "active": "0b2b774c252f37c5",
   "lastOpenFiles": [
+    "_notes/Public/The Garden of Life.md",
+    "_notes/Public/Seeding Pots.md",
+    "src/Pasted image 20230417095635.png",
     "_notes/Public/Index.md",
+    "_notes/Public/Relationship.md",
+    "_notes/Public/Bên kia cầu vồng.md",
     "_notes/Public/Credits.md",
     "_notes/Public/Idea.md",
     "_notes/Public/Project.md",
@@ -206,9 +197,7 @@
     "_notes/Public/Journey.md",
     "_notes/Public/Giving back.md",
     "_notes/Public/Psychology.md",
-    "_notes/Public/Relationship.md",
     "_notes/Public/Brand building.md",
-    "_notes/Public/Bên kia cầu vồng.md",
     "pages/index.md",
     "_posts/2023-04-09-index.md",
     "_posts/2023-04-09-index.md.md",
@@ -217,8 +206,6 @@
     "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Learn.md",
     "_notes/Public/Hidden Note.md",
-    "pages/Index.md",
-    "_notes/Public/Financial Security.md",
     "_notes/Public/cleanup_task.py",
     "src/Pasted image 20230416192347.png",
     "src/Pasted image 20230416212427.png",
@@ -229,7 +216,6 @@
     "src/Pasted image 20230415225843.png",
     "src/Pasted image 20230415225228.png",
     "src/Pasted image 20230415225457.png",
-    "src/Pasted image 20230415225407.png",
     "ultilities",
     "google31049145a24afdba.html",
     "google31049145a24afdba (1).html",
