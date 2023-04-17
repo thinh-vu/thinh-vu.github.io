@@ -6,6 +6,6 @@ permalink:
 date : 10-04-2023
 ---
 
-- 🔗  [[Area]]
+- 🔗  [[Mental Health]]
 
 

@@ -5,7 +5,7 @@ permalink: /chuyen-hen-ho
 date : 09-04-2023
 ---
 
-- 🔗 [[Communication]] [[Relationship]]
+- 🔗 [[Communication]] [[_notes/Relationship]]
 
 > [[Thương hiệu cá nhân]] của bạn chính là những gì người khác nói về bạn khi bạn không ở trong phòng. — Jeff Bezos
 

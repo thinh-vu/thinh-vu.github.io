@@ -1,12 +1,25 @@
 import re
+import os
 
-with open('How to take smart notes.md', 'r') as f:
-    lines = f.readlines()
+# Define functions
+def remove_lines_with_pattern(file_path, pattern):
+    """
+    Remove lines that match a specified pattern from a file.
 
-with open('How to take smart notes.md', 'w') as f:
-    for line in lines:
-        if not re.match(r'.*Highlight \(yellow\) - Location \d+', line):
-            f.write(line)
+    Args:
+        file_path (str): The path to the file to modify.
+        pattern (str): A regular expression pattern that matches the lines to remove.
+
+    Returns:
+        None
+    """
+    with open(file_path, 'r') as f:
+        lines = f.readlines()
+
+    with open(file_path, 'w') as f:
+        for line in lines:
+            if not re.match(pattern, line):
+                f.write(line)
 
 
 def replace_string_in_files(folder_path, search_for, replace_with):
@@ -33,5 +46,5 @@ def replace_string_in_files(folder_path, search_for, replace_with):
 
 # Apply functions
 
-note_folder = '/Users/thinh.vu/Library/CloudStorage/OneDrive-Personal/Github/gardening/_notes'
-replace_string_in_files(note_folder, 'meta:', '')
+note_folder = '/Users/thinh.vu/Library/CloudStorage/OneDrive-Personal/Github/thinh-vu.github.io/_notes/Public'
+replace_string_in_files(note_folder, '[[pages/Index]]', '[[Index]]')

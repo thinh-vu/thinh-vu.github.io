@@ -6,8 +6,8 @@ date : 14-04-2023
 ---
 
 # 📚 Book Info
-- Author: 
-- Related: [[Read]]
+- Author: [[S. Ahrens]]
+- Related: [[Read]] [[Note-taking]]
 
 # 💬 Summary
 
