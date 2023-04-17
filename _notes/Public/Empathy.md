@@ -1,8 +1,8 @@
 ---
-title : Communication
+title : Empathy
 feed: hide
 format: list
-permalink: /communication
+permalink: /empathy
 date : 10-04-2023
 ---
 

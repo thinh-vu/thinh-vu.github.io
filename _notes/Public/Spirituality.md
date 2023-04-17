@@ -1,8 +1,8 @@
 ---
-title : Relationship
+title : Spirituality
 feed: hide
 format: list
-permalink: /relationship
+permalink: /spirituality
 date : 10-04-2023
 ---
 

@@ -5,6 +5,7 @@ permalink: /product-mindset
 date : 11-04-2023
 ---
 
+[[Read]] [[Mindset]]
 # Book Info 📚
 - Author: H. Dewolf & Jessica S. Hall
 - Get a free copy at: [3Pillars Global](https://www.3pillarglobal.com/product-mindset/)

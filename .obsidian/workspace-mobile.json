@@ -45,9 +45,9 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Life",
+            "query": "",
             "matchingCase": false,
-            "explainSearch": false,
+            "explainSearch": true,
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
@@ -140,7 +140,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "464da41ae5348544",
+  "active": "5e1e0119b00f90c1",
   "lastOpenFiles": [
     "_notes/Public/The forgetting curve.md",
     "_notes/Public/The forgeting curve.md",

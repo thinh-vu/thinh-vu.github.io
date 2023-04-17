@@ -5,7 +5,7 @@ permalink: /digital-garden-jekyll-github-page
 date : 08-04-2023
 ---
 
-- Relate: [[Tutorial]]
+- Relate: [[Tutorial]] [[Note-taking]]
 
 Mình đã nghe nói tới việc thiết lập một static site với Github Page và Jekyll nhưng lần nọ loay hoay thử không thành công nên đành tạm bỏ ngang không đụng tới nữa. Cho tới hôm nay xem lại bài viết từng đăng trên Blog về các ứng dụng ghi chú và rồi lại lần mò tìm tới keyword "Digital Garden" thì tìm thấy một nguồn tham khảo khá thú vị và hữu ích với chủ đề [Digital Gardener](https://github.com/MaggieAppleton/digital-gardeners). Bắt tay vào làm thử và thành công ngoài mong đợi vì thực chất các khâu thực hiện không hề phức tạp. Kể ra phần tốn thời gian nhất chính là cài đặt Jekyll, đã thực hiện lần trước.
 
