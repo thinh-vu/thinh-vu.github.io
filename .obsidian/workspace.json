@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/posts.md",
+                "file": "_notes/Public/Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/posts.md",
+                "file": "_notes/Public/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/posts.md",
+                "file": "_notes/Public/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/posts.md"
+                "file": "_notes/Public/Index.md"
               }
             }
           },
@@ -177,8 +177,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "570c051bbb79da39",
+  "active": "f450ba14eb122387",
   "lastOpenFiles": [
+    "_notes/Public/Relationship.md",
+    "_notes/Public/Index.md",
+    "pages/index.md",
+    "_notes/Public/Spirituality.md",
+    "_notes/Public/Divination.md",
+    "pages/posts.md",
     "_notes/Public/Wellbeing - The Five Essential Elements.md",
     "_notes/Public/Viết là tư duy.md",
     "_notes/Public/Tutorial.md",
@@ -191,20 +197,14 @@
     "_notes/Public/Story.md",
     "_notes/Public/Stop Overthinking.md",
     "_notes/Public/Startup.md",
-    "_notes/Public/Spirituality.md",
     "_notes/Public/Social Skills.md",
     "_notes/Public/Skillset.md",
     "_notes/Public/Saving.md",
     "_notes/Public/SaaS.md",
-    "_notes/Public/Relationship.md",
     "_notes/Public/Read.md",
     "_notes/Public/Pyramid of Life.md",
     "_notes/Public/Pull & push notes on mobile devices.md",
     "_notes/Public/Psychology.md",
-    "_notes/Public/Productivity.md",
-    "_notes/Public/Product mindset.md",
-    "_notes/Public/Physical Health.md",
-    "_notes/Public/Personal MBA.md",
     "_notes/Public/cleanup_task.py",
     "src/Pasted image 20230416192347.png",
     "src/Pasted image 20230416212427.png",
