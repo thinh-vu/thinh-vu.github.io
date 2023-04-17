@@ -1,7 +1,7 @@
 ---
 title : Investment
 permalink: /investment
-feed: show
+feed: hide
 format: list
 date : 15-04-20236
 ---

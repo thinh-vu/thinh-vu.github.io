@@ -1,7 +1,7 @@
 ---
 title : Lifestyle
 permalink: /lifestyle
-feed: show
+feed: hide
 format: list
 date : 16-04-2023
 ---

@@ -1,7 +1,7 @@
 ---
 title : Lifelong Learning
 permalink: /lifelong-learning
-feed: show
+feed: hide
 format: list
 date : 16-04-2023
  

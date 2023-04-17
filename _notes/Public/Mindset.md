@@ -1,7 +1,7 @@
 ---
 title : Mindset
 permalink: /mindset
-feed: show
+feed: hide
 format: list
 date : 17-04-2023
  

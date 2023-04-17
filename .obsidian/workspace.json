@@ -11,8 +11,13 @@
             "id": "0e510f4822f52940",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/Giving back.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/Public/Giving back.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_notes/Public/Giving back.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_notes/Public/Giving back.md"
+              }
             }
           },
           {
@@ -170,24 +179,7 @@
   },
   "active": "0e510f4822f52940",
   "lastOpenFiles": [
-    "_notes/Public/Bên kia cầu vồng.md",
-    "_notes/Public/Brand building.md",
-    "_notes/Public/Budgeting.md",
-    "_notes/Public/Career.md",
-    "_notes/Public/Chuyện hẹn hò.md",
-    "_notes/Public/Communication.md",
-    "_notes/Public/Community.md",
-    "_notes/Public/Digital Garden, Evergreen note và Zettelkasten.md",
-    "_notes/Public/Divination.md",
-    "_notes/Public/Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
-    "_notes/Public/Empathy.md",
-    "_notes/Public/Entertainment.md",
-    "_notes/Public/Extended Family.md",
-    "_notes/Public/Financial Analytics.md",
     "_notes/Public/Financial Security.md",
-    "_notes/Public/Financial Trading in Python.md",
-    "_notes/Public/Gieo trồng hạnh phúc.md",
-    "_notes/Public/Giving back.md",
     "_notes/Public/Gratitude.md",
     "_notes/Public/Handling markdown with Python.md",
     "_notes/Public/Happiness.md",
@@ -196,6 +188,23 @@
     "_notes/Public/Index.md",
     "_notes/Public/Investment.md",
     "_notes/Public/Journey.md",
+    "_notes/Public/Leisure.md",
+    "_notes/Public/Lessons for the 21st Century.md",
+    "_notes/Public/Life's Purpose.md",
+    "_notes/Public/Lifelong Learning.md",
+    "_notes/Public/Lifestyle.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Marketing.md",
+    "_notes/Public/Meditation.md",
+    "_notes/Public/Mental Health.md",
+    "_notes/Public/Mindfulness.md",
+    "_notes/Public/Mindset.md",
+    "_notes/Public/Parenting.md",
+    "_notes/Public/Personal MBA.md",
+    "_notes/Public/Physical Health.md",
+    "_notes/Public/Product mindset.md",
+    "_notes/Public/Productivity.md",
+    "_notes/Public/Pyramid of Life.md",
     "_notes/Public/cleanup_task.py",
     "src/Pasted image 20230416192347.png",
     "src/Pasted image 20230416212427.png",

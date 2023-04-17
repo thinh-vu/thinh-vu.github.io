@@ -1,9 +1,9 @@
 ---
 title : Productivity
 permalink: /productivity
-feed: show
+feed: hide
 format: list
-date : 17-04-2023 12:31
+date : 17-04-2023
  
 ---
 

@@ -1,9 +1,9 @@
 ---
 title : Health
 permalink: /health
-feed: show
+feed: hide
 format: list
-date : 15-04-2023 22:55
+date : 15-04-2023
 ---
 
 [[Index]]

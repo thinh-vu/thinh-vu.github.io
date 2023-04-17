@@ -2,7 +2,7 @@
 title : Handling markdown with Python
 permalink: /markdown-python
 feed: show
-date : 17-04-2023 09:56
+date : 17-04-2023
  
 ---
 
