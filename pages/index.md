@@ -1,8 +1,8 @@
 ---
-title : Index
-feed: hide
-format: list
-date : 09-04-2023
----
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-Danh mục phân loại các ghi chú trong 🌱 "khu vườn" của tôi.
+layout: Post
+permalink: /
+title: Plant. Grow. Flourish
+---
