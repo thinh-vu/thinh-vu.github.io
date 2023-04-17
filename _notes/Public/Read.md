@@ -8,5 +8,5 @@ date : 09-04-2023
 
 Đây là các ghi chú thông qua những cuốn sách và nội dung tôi đọc.
 
-- Related: [[Leisure]]
+- Related: [[Index]]
 

@@ -5,8 +5,6 @@ feed: show
 date : 16-04-2023 21:23
 ---
 
-[[Read]] [[Note-taking]]
-
 > [!Note] 
 > Within [24 hours](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120644) of leaving class, your brain will have forgotten more than half of what it remembered at the end of the class.
 

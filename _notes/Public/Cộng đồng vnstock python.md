@@ -1,7 +1,8 @@
 ---
 title : Cộng đồng vnstock python
-permalink: /vnstock-python-community
+permalink: 
 feed: hide
+aliases: [Cộng đồng vnstock python]
 date : 15-04-2023 06:01
 ---
 

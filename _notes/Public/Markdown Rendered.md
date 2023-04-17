@@ -3,9 +3,10 @@ title : Markdown Rendered
 feed: hide
 date : 08-04-2023
 ---
-[[Tutorial]] [[Cẩm nang "làm vườn" 4.0]]
-
 This page contains a quick reference to all markdown properties. 90% of this was part of the [Simple Jekyll](https://github.com/raghuveerdotnet/simply-jekyll) theme, which we forked to built this one. Great job, makers!
+
+By the way, how did you reach this page?  
+From backlink under [[Hidden Note] or from feed, along with [[Welcome to the garden]]?
 
 * TOC
 {:toc}
