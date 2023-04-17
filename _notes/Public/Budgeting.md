@@ -1,7 +1,7 @@
 ---
 title : Budgeting
 permalink: /budgeting
-feed: show
+feed: hide
 format: list
 date : 15-04-2023 22:55
 ---
