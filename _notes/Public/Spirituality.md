@@ -6,6 +6,6 @@ permalink: /spirituality
 date : 10-04-2023
 ---
 
--  [[happy-life]]
+-  [[Index]]
 
 

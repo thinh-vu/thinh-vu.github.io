@@ -6,4 +6,4 @@ permalink: /leisure
 date : 09-04-2023
 ---
 
-- Related: [[happy-life]]
+- Related: [[Index]]
