@@ -1,5 +1,5 @@
 ---
-title : Life's Purpose
+title : Life Purpose
 feed: hide
 format: list
 permalink: /life-purpose

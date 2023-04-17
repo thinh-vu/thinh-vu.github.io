@@ -6,4 +6,4 @@ permalink: /entertainment
 date : 09-04-2023
 ---
 
-- Related: [[Leisure]]
+Related: [[Leisure]]

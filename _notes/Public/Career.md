@@ -1,6 +1,6 @@
 ---
 title : Career
-permalink: 
+permalink: /career
 feed: show
 format: list
 date : 16-04-2023

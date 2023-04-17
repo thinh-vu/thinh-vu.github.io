@@ -6,4 +6,4 @@ permalink: /extended-family
 date : 09-04-2023
 ---
 
-- Related: [[Relationship]]
+Related: [[Relationship]]
