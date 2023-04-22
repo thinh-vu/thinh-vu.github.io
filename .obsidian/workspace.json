@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Handling markdown with Python.md",
+                "file": "_notes/Public/Spirituality.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Handling markdown with Python.md",
+                "file": "_notes/Public/Spirituality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Handling markdown with Python.md",
+                "file": "_notes/Public/Spirituality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Handling markdown with Python.md"
+                "file": "_notes/Public/Spirituality.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "0b2b774c252f37c5",
   "lastOpenFiles": [
+    "_notes/Public/Handling markdown with Python.md",
     "_notes/Public/The Garden of Life.md",
     "_notes/Public/Seeding Pots.md",
     "src/Pasted image 20230417095635.png",
@@ -205,7 +206,6 @@
     "_notes/Public/move your body every day.md",
     "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Learn.md",
-    "_notes/Public/Hidden Note.md",
     "_notes/Public/cleanup_task.py",
     "src/Pasted image 20230416192347.png",
     "src/Pasted image 20230416212427.png",
