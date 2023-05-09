@@ -8,7 +8,7 @@ date : 10-04-2023
 # Book Info 📚
 - Title: Stop Overthinking - 23 Techniques to Relieve Stress, Stop Negative Spirals, Declutter Your Mind, and Focus on the Present
 - Author [[Nick Trenton]]
-- 🔗  [[Psychology]] [[Read]] [[Stress Management]] [[Time Management]]
+- 🔗  [[Psychology]] [[Read]] [[Stress Management]] [[_notes/Productivity 101]]
 
 # Summary 💬
 - Kỹ thuật 4A để quản lý "stress": Tránh (Avoid), Chuyển hoá (Alter), Chấp nhận (Accept), Thích ứng (Adapt)

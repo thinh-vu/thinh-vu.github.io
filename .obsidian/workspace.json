@@ -65,6 +65,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5175981fdb5b2764",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -177,35 +185,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b2b774c252f37c5",
+  "active": "570c051bbb79da39",
   "lastOpenFiles": [
+    "_notes/Public/Visual Note-taking.md",
+    "_notes/Public/Tools of choice.md",
+    "_notes/Public/Time Management Guide.md",
+    "_notes/Public/Tiktok Scraping.md",
+    "_notes/Public/The Sketch Note Handbook.md",
+    "_notes/Public/The Doodle Revolution.md",
+    "_notes/Public/Storytelling.md",
+    "_notes/Public/Singapore's Success - Engineering Economic Growth.md",
+    "_notes/Public/Pyramid of Life.md",
+    "_notes/Public/Productivity 101.md",
+    "_notes/Public/Priciples Life and Work - Ray Dalio.md",
+    "_notes/Public/Mục đích của cuộc đời.md",
+    "_notes/Public/Linear Optimization.md",
+    "_notes/Public/Kỳ tích Singapore.md",
+    "_notes/Public/How to learn anything.md",
+    "_notes/Public/Generative AI.md",
+    "_notes/Public/Executive Presentation Guide.md",
+    "_notes/Public/Data Mining with Orange.md",
+    "_notes/Public/Critical Thinking - Tom Chatfield.md",
+    "_notes/Public/Consultant's mind.md",
+    "_notes/Public/ChatGPT Flowchart.md",
+    "_notes/Public/Amazing Page Speed Optimization Achievements.md",
     "_notes/Public/Handling markdown with Python.md",
     "_notes/Public/The Garden of Life.md",
     "_notes/Public/Seeding Pots.md",
     "src/Pasted image 20230417095635.png",
     "_notes/Public/Index.md",
-    "_notes/Public/Relationship.md",
-    "_notes/Public/Bên kia cầu vồng.md",
-    "_notes/Public/Credits.md",
-    "_notes/Public/Idea.md",
-    "_notes/Public/Project.md",
-    "_notes/Public/Area.md",
-    "_notes/Public/Happiness.md",
-    "_notes/Public/Physical Health.md",
-    "_notes/Public/Parenting.md",
-    "_notes/Public/Mental Health.md",
-    "_notes/Public/Meditation.md",
-    "_notes/Public/Journey.md",
-    "_notes/Public/Giving back.md",
-    "_notes/Public/Psychology.md",
-    "_notes/Public/Brand building.md",
-    "pages/index.md",
-    "_posts/2023-04-09-index.md",
-    "_posts/2023-04-09-index.md.md",
-    "_posts/2020-03-01-features.md",
-    "_notes/Public/move your body every day.md",
-    "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/Learn.md",
     "_notes/Public/cleanup_task.py",
     "src/Pasted image 20230416192347.png",
     "src/Pasted image 20230416212427.png",

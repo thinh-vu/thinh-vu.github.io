@@ -11,8 +11,13 @@
             "id": "464da41ae5348544",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/3 stages of failure.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "_notes/Public/3 stages of failure.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "_notes/Public/3 stages of failure.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "_notes/Public/3 stages of failure.md"
+          }
         }
       },
       {
@@ -133,6 +142,8 @@
   },
   "active": "464da41ae5348544",
   "lastOpenFiles": [
+    "src/Pasted image 20230425183101.png",
+    "_notes/Public/3 stages of failure.md",
     "_notes/Public/The forgetting curve.md",
     "_notes/Public/The forgeting curve.md",
     "src/Pasted image 20230416212427.png",

@@ -1,7 +1,7 @@
 ---
 title : Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời
 feed: show
-permalink: 
+permalink: /doc-nhanh-nho-lau
 date : 09-04-2023
 ---
 

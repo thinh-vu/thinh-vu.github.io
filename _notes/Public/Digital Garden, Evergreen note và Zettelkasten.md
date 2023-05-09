@@ -1,7 +1,7 @@
 ---
 title : Digital Garden, Evergreen note và Zettelkasten
 feed: show
-permalink: digital-garden-evergreen-note-zettelkasten
+permalink: /digital-garden-evergreen-note-zettelkasten
 date : 10-04-2023
 ---
 

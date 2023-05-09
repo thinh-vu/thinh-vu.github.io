@@ -2,10 +2,10 @@
 title : Cộng đồng vnstock python
 permalink: /vnstock-python-community
 feed: hide
-date : 15-04-2023 06:01
+date : 15-04-2023
 ---
 
-[[Community building]]  [[Education toward Freedom]]
+[[Community]]
 
 Xin chào các bạn, sau một thời gian tạm ngưng phát triển chính thức thư viện vnstock python và nhận phản hồi về các lỗi xuất hiện trong quá trình sử dụng của người dùng gần đây. Tôi đã suy nghĩ về việc tạo ra một cộng đồng kết nối và trao đổi về vnstock để tiếp tục phát triển thư viện này trở nên hữu ích với cộng đồng phân tích và đầu tư chứng khoán. 
 

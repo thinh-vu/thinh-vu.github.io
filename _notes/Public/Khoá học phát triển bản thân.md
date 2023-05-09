@@ -1,0 +1,2 @@
+- Làm gì khi bỗng nhiên tạm ngừng công việc
+- Deal mức lương bạn xứng đáng 

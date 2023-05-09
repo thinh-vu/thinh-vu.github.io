@@ -2,7 +2,7 @@
 title : Lessons for the 21st Century
 permalink: /bai-hoc-cho-the-ky-21
 feed: show
-date : 15-04-2023
+date : 15-04-2023 14:43
 ---
 
 [[Lifelong Learning]]

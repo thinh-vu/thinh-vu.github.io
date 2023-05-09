@@ -6,8 +6,7 @@ date : 08-04-2023
 
 # Book Info 📚
 - Author: [[Barbara Minto]]
-- Related: [[McKinsey]]
-- Relate: [[Read]]
+- Related: [[Read]] [[McKinsey]]
 
 ___
 
@@ -31,7 +30,7 @@ ___
 ### 1. WHY A PYRAMID STRUCTURE
 #### SORTING INTO PYRAMIDS
 
-![](src/Pasted%20image%2020230409200507.png)
+![](/src/Pasted%20image%2020230409200507.png)
 
 **The Need to State the Logic**
 
@@ -58,7 +57,7 @@ If you think for a moment about what you actua11y do when you write, you can see
 2. Ideas in each grouping must always be the same kind of idea. 
 3. Ideas in each grouping must always be logically ordered.
 P10
-![](src/Pasted%20image%2020230410203514.png)
+![](/src/Pasted%20image%2020230410203514.png)
 
 Essentially it says that there are only four possible logical ways in which to order a set of ideas:
 - Deductively (major premise, minor premise, conclusion) 
@@ -68,3 +67,29 @@ Essentially it says that there are only four possible logical ways in which to o
 
 ### 2. THE SUBSTRUCTURES WITHIN  THE PYRAMID
 THE VERTICAL RELATIONSHIP
+
+The vertical relationship serves marvelously to help capture the reader's attention. It permits you to set up a question/answer dialogue that will pull him with great interest through your reasoning. Why can we be so sure the reader will be inter- ested? Because he will be forced to respond logically to your ideas.
+
+Since people do not generally read to find out what they already know, it is fair to state that your primary purpose in communicating your thinking will always be to tell people what they do not know.
+
+![](src/Pasted%20image%2020230417222654.png)
+
+THE HORIZONTAL RELATIONSHIP
+**A deductive grouping** ,represents an argument in successive steps. That is, the first idea makes a statement about a situation that exists in the world today. The second idea comments on the subject or the predicate of that statement, and the third idea states the implication of those two situations existing in the world at the same tin1e. Thus, the grouping would have the following form:
+
+- Menaremortal.  
+- Socrates isaman.  
+- Therefore Socrates is mortal.
+=> Summary: "Because Socrates is a man he is mortal.""
+
+**An inductive grouping,** by contrast, wiI take a set of ideas that are related simply by virtue of the fact that you can describe them all by the same plural noun (reasons for, reasons against, steps, problems, etc.). The form of this argument would be:
+- French tanks are at the Polish border. 
+- German tanks are at the Polish border.
+- Russian tanks are at the Polish border.
+=> your inference would be something like "Poland is about to be invaded by tanks."
+
+THE INTRODUCTORY FLOW
+
+Since this history will be in the form of a narrative of events, it should follow the classic narrative pattern of developrnent. That is, it should begin by ==establishing for the reader the time and place of a Situation. In that Situation something will have occurred (known as the Complication) that caused hirn to raise (or would cause him to raise) the Question to which your document will give him the Answer.==
+
+This classic pattern of [[Storytelling]] ==Situation, Complication , Questions. Answer== -­ perrnits you to make sure that you and the reader are "standing in the same place" before you take him by the hand and lead him through your reasoning.
